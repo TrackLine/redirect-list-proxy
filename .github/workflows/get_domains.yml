@@ -27,6 +27,16 @@ jobs:
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
+      - name: Update latest Release
+        uses: softprops/action-gh-release@v2
+        with:
+            tag_name: "latest"
+            name: "Latest Release"
+            body: "Always up-to-date processed domain list."
+            files: output/processed_domains.txt
+        env:
+            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
         with:
