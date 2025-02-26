@@ -13,6 +13,8 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Download domain list
         run: |
@@ -23,22 +25,21 @@ jobs:
           mkdir -p output
           awk -v ip="$TARGET_IP" '{print "||" $0 "^$dnsrewrite=" ip}' raw_domains.lst > output/processed_domains.txt
 
+      - name: Commit and push to main branch
+        run: |
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global user.name "github-actions[bot]"
+          cp output/processed_domains.txt ./processed_domains.txt
+          git add processed_domains.txt
+          git commit -m "Update processed_domains.txt [Automated]" || echo "No changes to commit"
+          git push origin main
+
       - name: Get current date
         id: date
         run: echo "date=$(date +'%Y-%m-%d')" >> $GITHUB_OUTPUT
 
-      - name: Update latest Release
-        uses: softprops/action-gh-release@v2
-        with:
-            tag_name: "latest"
-            name: "Latest Release"
-            body: "Always up-to-date processed domain list."
-            files: output/processed_domains.txt
-        env:
-            GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-            
       - name: Create GitHub Release
-        uses: softprops/action-gh-release@v1
+        uses: softprops/action-gh-release@v2
         with:
           tag_name: "release-${{ steps.date.outputs.date }}"
           name: "Daily Update - ${{ steps.date.outputs.date }}"
@@ -46,6 +47,3 @@ jobs:
           files: output/processed_domains.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Cleanup
-        run: rm -rf raw_domains.lst output
