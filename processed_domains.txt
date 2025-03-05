@@ -1,5 +1,6 @@
 ||.ua^$dnsrewrite=16.170.127.172
 ||10minutemail.com^$dnsrewrite=16.170.127.172
+||1337x.to^$dnsrewrite=16.170.127.172
 ||24.kg^$dnsrewrite=16.170.127.172
 ||4freerussia.org^$dnsrewrite=16.170.127.172
 ||4pda.to^$dnsrewrite=16.170.127.172
@@ -79,6 +80,7 @@
 ||blinkshot.io^$dnsrewrite=16.170.127.172
 ||bluehost.com^$dnsrewrite=16.170.127.172
 ||booktracker.org^$dnsrewrite=16.170.127.172
+||botnadzor.org^$dnsrewrite=16.170.127.172
 ||brawlstarsgame.com^$dnsrewrite=16.170.127.172
 ||broadcom.com^$dnsrewrite=16.170.127.172
 ||broncosportforum.com^$dnsrewrite=16.170.127.172
@@ -125,8 +127,10 @@
 ||coldfilm.xyz^$dnsrewrite=16.170.127.172
 ||colta.ru^$dnsrewrite=16.170.127.172
 ||community.sophos.com^$dnsrewrite=16.170.127.172
+||contabo.com^$dnsrewrite=16.170.127.172
 ||coomer.su^$dnsrewrite=16.170.127.172
 ||copilot.microsoft.com^$dnsrewrite=16.170.127.172
+||corsair.com^$dnsrewrite=16.170.127.172
 ||coursera.org^$dnsrewrite=16.170.127.172
 ||cpu-monkey.com^$dnsrewrite=16.170.127.172
 ||credly.com^$dnsrewrite=16.170.127.172
@@ -237,6 +241,7 @@
 ||forklog.com^$dnsrewrite=16.170.127.172
 ||formula1.com^$dnsrewrite=16.170.127.172
 ||fortanga.org^$dnsrewrite=16.170.127.172
+||forum.netgate.com^$dnsrewrite=16.170.127.172
 ||forum.ru-board.com^$dnsrewrite=16.170.127.172
 ||foxnews.com^$dnsrewrite=16.170.127.172
 ||framer.com^$dnsrewrite=16.170.127.172
@@ -391,6 +396,7 @@
 ||mangahub.ru^$dnsrewrite=16.170.127.172
 ||mangapark.net^$dnsrewrite=16.170.127.172
 ||mashable.com^$dnsrewrite=16.170.127.172
+||mattermost.com^$dnsrewrite=16.170.127.172
 ||mbk-news.appspot.com^$dnsrewrite=16.170.127.172
 ||mediazona.ca^$dnsrewrite=16.170.127.172
 ||medicalnewstoday.com^$dnsrewrite=16.170.127.172
@@ -499,7 +505,6 @@
 ||pingdom.com^$dnsrewrite=16.170.127.172
 ||piratbit.top^$dnsrewrite=16.170.127.172
 ||pkgs.tailscale.com^$dnsrewrite=16.170.127.172
-||plab.site^$dnsrewrite=16.170.127.172
 ||platform.activestate.com^$dnsrewrite=16.170.127.172
 ||playboy.com^$dnsrewrite=16.170.127.172
 ||plugshare.com^$dnsrewrite=16.170.127.172
@@ -588,6 +593,7 @@
 ||seasonvar.ru^$dnsrewrite=16.170.127.172
 ||selezen.org^$dnsrewrite=16.170.127.172
 ||semnasem.org^$dnsrewrite=16.170.127.172
+||sentry.io^$dnsrewrite=16.170.127.172
 ||sephora.com^$dnsrewrite=16.170.127.172
 ||servarr.com^$dnsrewrite=16.170.127.172
 ||severreal.org^$dnsrewrite=16.170.127.172
@@ -653,6 +659,7 @@
 ||synoforum.com^$dnsrewrite=16.170.127.172
 ||t.co^$dnsrewrite=16.170.127.172
 ||tableau.com^$dnsrewrite=16.170.127.172
+||talosintelligence.com^$dnsrewrite=16.170.127.172
 ||tayga.info^$dnsrewrite=16.170.127.172
 ||te-st.org^$dnsrewrite=16.170.127.172
 ||teamviewer.com^$dnsrewrite=16.170.127.172
@@ -661,6 +668,7 @@
 ||telegraph.co.uk^$dnsrewrite=16.170.127.172
 ||telemetr.io^$dnsrewrite=16.170.127.172
 ||tellapart.com^$dnsrewrite=16.170.127.172
+||tempmail.plus^$dnsrewrite=16.170.127.172
 ||temu.com^$dnsrewrite=16.170.127.172
 ||terraform.io^$dnsrewrite=16.170.127.172
 ||the-village.ru^$dnsrewrite=16.170.127.172
@@ -689,6 +697,7 @@
 ||tmdb-image-prod.b-cdn.net^$dnsrewrite=16.170.127.172
 ||tmdb.com^$dnsrewrite=16.170.127.172
 ||tmdb.org^$dnsrewrite=16.170.127.172
+||torrenteditor.com^$dnsrewrite=16.170.127.172
 ||torrentgalaxy.to^$dnsrewrite=16.170.127.172
 ||trailblazer.me^$dnsrewrite=16.170.127.172
 ||trailhead.com^$dnsrewrite=16.170.127.172
