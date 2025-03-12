@@ -99,6 +99,7 @@
 ||cats.com^$dnsrewrite=16.170.127.172
 ||cbilling.eu^$dnsrewrite=16.170.127.172
 ||cbilling.vip^$dnsrewrite=16.170.127.172
+||cdn-telegram.org^$dnsrewrite=16.170.127.172
 ||cdn.web-platform.io^$dnsrewrite=16.170.127.172
 ||cdnbunny.org^$dnsrewrite=16.170.127.172
 ||cdninstagram.com^$dnsrewrite=16.170.127.172
@@ -126,8 +127,10 @@
 ||coinsbee.com^$dnsrewrite=16.170.127.172
 ||coldfilm.xyz^$dnsrewrite=16.170.127.172
 ||colta.ru^$dnsrewrite=16.170.127.172
+||comments.app^$dnsrewrite=16.170.127.172
 ||community.sophos.com^$dnsrewrite=16.170.127.172
 ||contabo.com^$dnsrewrite=16.170.127.172
+||contest.com^$dnsrewrite=16.170.127.172
 ||coomer.su^$dnsrewrite=16.170.127.172
 ||copilot.microsoft.com^$dnsrewrite=16.170.127.172
 ||corsair.com^$dnsrewrite=16.170.127.172
@@ -195,6 +198,8 @@
 ||e621.net^$dnsrewrite=16.170.127.172
 ||echofm.online^$dnsrewrite=16.170.127.172
 ||edu-cisco.org^$dnsrewrite=16.170.127.172
+||ef.com^$dnsrewrite=16.170.127.172
+||ef.edu^$dnsrewrite=16.170.127.172
 ||eggertspiele.de^$dnsrewrite=16.170.127.172
 ||ej.ru^$dnsrewrite=16.170.127.172
 ||ekhokavkaza.com^$dnsrewrite=16.170.127.172
@@ -244,6 +249,7 @@
 ||forum.netgate.com^$dnsrewrite=16.170.127.172
 ||forum.ru-board.com^$dnsrewrite=16.170.127.172
 ||foxnews.com^$dnsrewrite=16.170.127.172
+||fragment.com^$dnsrewrite=16.170.127.172
 ||framer.com^$dnsrewrite=16.170.127.172
 ||freedomletters.org^$dnsrewrite=16.170.127.172
 ||freeimages.com^$dnsrewrite=16.170.127.172
@@ -276,6 +282,7 @@
 ||gr-assets.com^$dnsrewrite=16.170.127.172
 ||grafana.com^$dnsrewrite=16.170.127.172
 ||grani.ru^$dnsrewrite=16.170.127.172
+||graph.org^$dnsrewrite=16.170.127.172
 ||graty.me^$dnsrewrite=16.170.127.172
 ||graylog.org^$dnsrewrite=16.170.127.172
 ||grok.com^$dnsrewrite=16.170.127.172
@@ -466,6 +473,7 @@
 ||novayagazeta.eu^$dnsrewrite=16.170.127.172
 ||novayagazeta.ru^$dnsrewrite=16.170.127.172
 ||ntc.party^$dnsrewrite=16.170.127.172
+||ntp.msn.com^$dnsrewrite=16.170.127.172
 ||nxp.com^$dnsrewrite=16.170.127.172
 ||oaistatic.com^$dnsrewrite=16.170.127.172
 ||oaiusercontent.com^$dnsrewrite=16.170.127.172
@@ -484,6 +492,7 @@
 ||openmedia.io^$dnsrewrite=16.170.127.172
 ||opensea.io^$dnsrewrite=16.170.127.172
 ||opposition-news.com^$dnsrewrite=16.170.127.172
+||oracle.com^$dnsrewrite=16.170.127.172
 ||ovd.info^$dnsrewrite=16.170.127.172
 ||ovd.legal^$dnsrewrite=16.170.127.172
 ||ovd.news^$dnsrewrite=16.170.127.172
@@ -537,6 +546,7 @@
 ||public.parsec.app^$dnsrewrite=16.170.127.172
 ||qt.io^$dnsrewrite=16.170.127.172
 ||quickconnect.to^$dnsrewrite=16.170.127.172
+||quiz.directory^$dnsrewrite=16.170.127.172
 ||quora.com^$dnsrewrite=16.170.127.172
 ||quora.com.cdn.cloudflare.net^$dnsrewrite=16.170.127.172
 ||r4.err.ee^$dnsrewrite=16.170.127.172
@@ -658,19 +668,30 @@
 ||swissinfo.ch^$dnsrewrite=16.170.127.172
 ||synoforum.com^$dnsrewrite=16.170.127.172
 ||t.co^$dnsrewrite=16.170.127.172
+||t.me^$dnsrewrite=16.170.127.172
 ||tableau.com^$dnsrewrite=16.170.127.172
 ||talosintelligence.com^$dnsrewrite=16.170.127.172
 ||tayga.info^$dnsrewrite=16.170.127.172
+||tdesktop.com^$dnsrewrite=16.170.127.172
 ||te-st.org^$dnsrewrite=16.170.127.172
 ||teamviewer.com^$dnsrewrite=16.170.127.172
+||telega.one^$dnsrewrite=16.170.127.172
+||telegra.ph^$dnsrewrite=16.170.127.172
 ||telegraf.by^$dnsrewrite=16.170.127.172
 ||telegraf.news^$dnsrewrite=16.170.127.172
+||telegram-cdn.org^$dnsrewrite=16.170.127.172
+||telegram.dog^$dnsrewrite=16.170.127.172
+||telegram.me^$dnsrewrite=16.170.127.172
+||telegram.org^$dnsrewrite=16.170.127.172
+||telegram.space^$dnsrewrite=16.170.127.172
 ||telegraph.co.uk^$dnsrewrite=16.170.127.172
 ||telemetr.io^$dnsrewrite=16.170.127.172
+||telesco.pe^$dnsrewrite=16.170.127.172
 ||tellapart.com^$dnsrewrite=16.170.127.172
 ||tempmail.plus^$dnsrewrite=16.170.127.172
 ||temu.com^$dnsrewrite=16.170.127.172
 ||terraform.io^$dnsrewrite=16.170.127.172
+||tg.dev^$dnsrewrite=16.170.127.172
 ||the-village.ru^$dnsrewrite=16.170.127.172
 ||theaudiodb.com^$dnsrewrite=16.170.127.172
 ||thebarentsobserver.com^$dnsrewrite=16.170.127.172
@@ -728,6 +749,7 @@
 ||twttr.com^$dnsrewrite=16.170.127.172
 ||twttr.net^$dnsrewrite=16.170.127.172
 ||twvid.com^$dnsrewrite=16.170.127.172
+||tx.me^$dnsrewrite=16.170.127.172
 ||typing.com^$dnsrewrite=16.170.127.172
 ||uaudio.com^$dnsrewrite=16.170.127.172
 ||ui.ill.in.ua^$dnsrewrite=16.170.127.172
@@ -738,6 +760,7 @@
 ||unscreen.com^$dnsrewrite=16.170.127.172
 ||upwork.com^$dnsrewrite=16.170.127.172
 ||usa.one^$dnsrewrite=16.170.127.172
+||usercontent.dev^$dnsrewrite=16.170.127.172
 ||vagrantcloud.com^$dnsrewrite=16.170.127.172
 ||veeam.com^$dnsrewrite=16.170.127.172
 ||verstka.media^$dnsrewrite=16.170.127.172
@@ -767,6 +790,7 @@
 ||weebly.com^$dnsrewrite=16.170.127.172
 ||welt.de^$dnsrewrite=16.170.127.172
 ||wide-youtube.l.google.com^$dnsrewrite=16.170.127.172
+||widgetapp.stream^$dnsrewrite=16.170.127.172
 ||wiki.fextralife.com^$dnsrewrite=16.170.127.172
 ||wikidot.com^$dnsrewrite=16.170.127.172
 ||wilsoncenter.org^$dnsrewrite=16.170.127.172
