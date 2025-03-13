@@ -9,7 +9,7 @@ jobs:
   update-and-release:
     runs-on: ubuntu-latest
     env:
-      TARGET_IP: "16.170.127.172"  # Задайте нужный IP здесь
+      TARGET_IP: "80.90.186.12"  # Задайте нужный IP здесь
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
