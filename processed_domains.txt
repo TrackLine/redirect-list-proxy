@@ -80,6 +80,8 @@
 ||blinkshot.io^$dnsrewrite=80.90.186.12
 ||bluehost.com^$dnsrewrite=80.90.186.12
 ||booktracker.org^$dnsrewrite=80.90.186.12
+||booth.pm^$dnsrewrite=80.90.186.12
+||booth.pximg.net^$dnsrewrite=80.90.186.12
 ||botnadzor.org^$dnsrewrite=80.90.186.12
 ||brawlstarsgame.com^$dnsrewrite=80.90.186.12
 ||broadcom.com^$dnsrewrite=80.90.186.12
@@ -206,6 +208,7 @@
 ||element14.com^$dnsrewrite=80.90.186.12
 ||elevenlabs.io^$dnsrewrite=80.90.186.12
 ||epidemz.net.co^$dnsrewrite=80.90.186.12
+||etsy.com^$dnsrewrite=80.90.186.12
 ||euronews.com^$dnsrewrite=80.90.186.12
 ||euroradio.fm^$dnsrewrite=80.90.186.12
 ||eutrp.eu^$dnsrewrite=80.90.186.12
@@ -422,11 +425,13 @@
 ||monoprice.com^$dnsrewrite=80.90.186.12
 ||more.fm^$dnsrewrite=80.90.186.12
 ||mouser.fi^$dnsrewrite=80.90.186.12
+||mssg.me^$dnsrewrite=80.90.186.12
 ||mullvad.net^$dnsrewrite=80.90.186.12
 ||multporn.net^$dnsrewrite=80.90.186.12
 ||muscdn.com^$dnsrewrite=80.90.186.12
 ||musical.ly^$dnsrewrite=80.90.186.12
 ||mydoramy.club^$dnsrewrite=80.90.186.12
+||myheritage.com^$dnsrewrite=80.90.186.12
 ||myjetbrains.com^$dnsrewrite=80.90.186.12
 ||navalny.com^$dnsrewrite=80.90.186.12
 ||nba.com^$dnsrewrite=80.90.186.12
@@ -599,6 +604,8 @@
 ||salesforceliveagent.com^$dnsrewrite=80.90.186.12
 ||sap.com^$dnsrewrite=80.90.186.12
 ||saverudata.net^$dnsrewrite=80.90.186.12
+||sci-hub.se^$dnsrewrite=80.90.186.12
+||sci-hub.st^$dnsrewrite=80.90.186.12
 ||sdxcentral.com^$dnsrewrite=80.90.186.12
 ||seasonvar.ru^$dnsrewrite=80.90.186.12
 ||selezen.org^$dnsrewrite=80.90.186.12
