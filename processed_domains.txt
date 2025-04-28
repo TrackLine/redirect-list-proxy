@@ -809,6 +809,7 @@
 ||yt-video-upload.l.google.com^$dnsrewrite=80.90.186.12
 ||ytimg.com^$dnsrewrite=80.90.186.12
 ||ytimg.l.google.com^$dnsrewrite=80.90.186.12
+||yting.com^$dnsrewrite=80.90.186.12
 ||yummyani.me^$dnsrewrite=80.90.186.12
 ||zahav.ru^$dnsrewrite=80.90.186.12
 ||zapier.com^$dnsrewrite=80.90.186.12
