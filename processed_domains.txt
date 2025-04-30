@@ -76,6 +76,7 @@
 ||bestchange.ru^$dnsrewrite=80.90.186.12
 ||bihus.info^$dnsrewrite=80.90.186.12
 ||bitdefender.com^$dnsrewrite=80.90.186.12
+||bitnami.com^$dnsrewrite=80.90.186.12
 ||blackseanews.net^$dnsrewrite=80.90.186.12
 ||blinkshot.io^$dnsrewrite=80.90.186.12
 ||bluehost.com^$dnsrewrite=80.90.186.12
@@ -263,6 +264,7 @@
 ||geforcenow.com^$dnsrewrite=80.90.186.12
 ||gelbooru.com^$dnsrewrite=80.90.186.12
 ||gemini.google.com^$dnsrewrite=80.90.186.12
+||generativelanguage.googleapis.com^$dnsrewrite=80.90.186.12
 ||geolocation.onetrust.com^$dnsrewrite=80.90.186.12
 ||germania.one^$dnsrewrite=80.90.186.12
 ||getoutline.com^$dnsrewrite=80.90.186.12
@@ -365,6 +367,7 @@
 ||kinogo.uk^$dnsrewrite=80.90.186.12
 ||kinovod.net^$dnsrewrite=80.90.186.12
 ||kinozal.guru^$dnsrewrite=80.90.186.12
+||kinozal.me^$dnsrewrite=80.90.186.12
 ||kinozal.tv^$dnsrewrite=80.90.186.12
 ||kmail-lists.com^$dnsrewrite=80.90.186.12
 ||knews.kg^$dnsrewrite=80.90.186.12
@@ -375,6 +378,7 @@
 ||kovcheg.live^$dnsrewrite=80.90.186.12
 ||krymr.com^$dnsrewrite=80.90.186.12
 ||kupujemprodajem.com^$dnsrewrite=80.90.186.12
+||kym-cdn.com^$dnsrewrite=80.90.186.12
 ||lambdalabs.com^$dnsrewrite=80.90.186.12
 ||lamcdn.net^$dnsrewrite=80.90.186.12
 ||ldoceonline.com^$dnsrewrite=80.90.186.12
@@ -402,6 +406,7 @@
 ||mangadex.org^$dnsrewrite=80.90.186.12
 ||mangahub.ru^$dnsrewrite=80.90.186.12
 ||mangapark.net^$dnsrewrite=80.90.186.12
+||manus.im^$dnsrewrite=80.90.186.12
 ||mashable.com^$dnsrewrite=80.90.186.12
 ||mattermost.com^$dnsrewrite=80.90.186.12
 ||mbk-news.appspot.com^$dnsrewrite=80.90.186.12
@@ -493,6 +498,7 @@
 ||onshape.com^$dnsrewrite=80.90.186.12
 ||openai.com^$dnsrewrite=80.90.186.12
 ||openmedia.io^$dnsrewrite=80.90.186.12
+||opensanctions.org^$dnsrewrite=80.90.186.12
 ||opensea.io^$dnsrewrite=80.90.186.12
 ||opposition-news.com^$dnsrewrite=80.90.186.12
 ||oracle.com^$dnsrewrite=80.90.186.12
@@ -562,6 +568,7 @@
 ||redgifs.com^$dnsrewrite=80.90.186.12
 ||redis.io^$dnsrewrite=80.90.186.12
 ||redshieldvpn.com^$dnsrewrite=80.90.186.12
+||refactoring.guru^$dnsrewrite=80.90.186.12
 ||remna.st^$dnsrewrite=80.90.186.12
 ||remove.bg^$dnsrewrite=80.90.186.12
 ||render-state.to^$dnsrewrite=80.90.186.12
@@ -653,6 +660,7 @@
 ||squadbustersgame.com^$dnsrewrite=80.90.186.12
 ||squareup.com^$dnsrewrite=80.90.186.12
 ||squietpc.com^$dnsrewrite=80.90.186.12
+||startpage.com^$dnsrewrite=80.90.186.12
 ||static.lostfilm.top^$dnsrewrite=80.90.186.12
 ||statology.org^$dnsrewrite=80.90.186.12
 ||steamstat.info^$dnsrewrite=80.90.186.12
@@ -712,6 +720,7 @@
 ||tmdb-image-prod.b-cdn.net^$dnsrewrite=80.90.186.12
 ||tmdb.com^$dnsrewrite=80.90.186.12
 ||tmdb.org^$dnsrewrite=80.90.186.12
+||torproject.org^$dnsrewrite=80.90.186.12
 ||torrenteditor.com^$dnsrewrite=80.90.186.12
 ||torrentgalaxy.to^$dnsrewrite=80.90.186.12
 ||trailblazer.me^$dnsrewrite=80.90.186.12
