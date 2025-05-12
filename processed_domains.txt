@@ -47,6 +47,7 @@
 ||annas-archive.org^$dnsrewrite=80.90.186.12
 ||anthropic.com^$dnsrewrite=80.90.186.12
 ||aol.com^$dnsrewrite=80.90.186.12
+||api.jetbrains.ai^$dnsrewrite=80.90.186.12
 ||api.service-kp.com^$dnsrewrite=80.90.186.12
 ||api.theins.info^$dnsrewrite=80.90.186.12
 ||api.themoviedb.org^$dnsrewrite=80.90.186.12
@@ -282,6 +283,7 @@
 ||goodreads.com^$dnsrewrite=80.90.186.12
 ||googlevideo.com^$dnsrewrite=80.90.186.12
 ||gpsonextra.net^$dnsrewrite=80.90.186.12
+||gpu-monkey.com^$dnsrewrite=80.90.186.12
 ||gr-assets.com^$dnsrewrite=80.90.186.12
 ||grafana.com^$dnsrewrite=80.90.186.12
 ||grani.ru^$dnsrewrite=80.90.186.12
@@ -297,6 +299,7 @@
 ||hackmd.io^$dnsrewrite=80.90.186.12
 ||halooglasi.com^$dnsrewrite=80.90.186.12
 ||hashicorp.com^$dnsrewrite=80.90.186.12
+||hd-rezka.tv^$dnsrewrite=80.90.186.12
 ||hdkinoteatr.com^$dnsrewrite=80.90.186.12
 ||hdrezka.ac^$dnsrewrite=80.90.186.12
 ||hdrezka.ag^$dnsrewrite=80.90.186.12
@@ -586,6 +589,7 @@
 ||riperam.org^$dnsrewrite=80.90.186.12
 ||roar-review.com^$dnsrewrite=80.90.186.12
 ||root-nation.com^$dnsrewrite=80.90.186.12
+||roskomsvoboda.org^$dnsrewrite=80.90.186.12
 ||rublacklist.net^$dnsrewrite=80.90.186.12
 ||rule34.art^$dnsrewrite=80.90.186.12
 ||rus.delfi.ee^$dnsrewrite=80.90.186.12
@@ -612,6 +616,7 @@
 ||sci-hub.se^$dnsrewrite=80.90.186.12
 ||sci-hub.st^$dnsrewrite=80.90.186.12
 ||sdxcentral.com^$dnsrewrite=80.90.186.12
+||searchfloor.org^$dnsrewrite=80.90.186.12
 ||seasonvar.ru^$dnsrewrite=80.90.186.12
 ||selezen.org^$dnsrewrite=80.90.186.12
 ||semnasem.org^$dnsrewrite=80.90.186.12
@@ -680,6 +685,7 @@
 ||swagger.io^$dnsrewrite=80.90.186.12
 ||swissinfo.ch^$dnsrewrite=80.90.186.12
 ||synoforum.com^$dnsrewrite=80.90.186.12
+||t-invariant.org^$dnsrewrite=80.90.186.12
 ||t.co^$dnsrewrite=80.90.186.12
 ||tableau.com^$dnsrewrite=80.90.186.12
 ||talosintelligence.com^$dnsrewrite=80.90.186.12
@@ -803,9 +809,15 @@
 ||x.com^$dnsrewrite=80.90.186.12
 ||xhamster.com^$dnsrewrite=80.90.186.12
 ||xhamsterlive.com^$dnsrewrite=80.90.186.12
+||xnxx-cdn.com^$dnsrewrite=80.90.186.12
+||xnxx.com^$dnsrewrite=80.90.186.12
+||xnxx.net^$dnsrewrite=80.90.186.12
+||xnxx.tv^$dnsrewrite=80.90.186.12
+||xnxx3.com^$dnsrewrite=80.90.186.12
 ||xsts.auth.xboxlive.com^$dnsrewrite=80.90.186.12
 ||xtracloud.net^$dnsrewrite=80.90.186.12
 ||xv-ru.com^$dnsrewrite=80.90.186.12
+||xvideos-cdn.com^$dnsrewrite=80.90.186.12
 ||xvideos.com^$dnsrewrite=80.90.186.12
 ||yle.fi^$dnsrewrite=80.90.186.12
 ||youtu.be^$dnsrewrite=80.90.186.12
