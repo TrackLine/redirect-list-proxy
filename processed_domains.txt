@@ -264,8 +264,6 @@
 ||gdb.rferl.org^$dnsrewrite=80.90.186.12
 ||geforcenow.com^$dnsrewrite=80.90.186.12
 ||gelbooru.com^$dnsrewrite=80.90.186.12
-||gemini.google.com^$dnsrewrite=80.90.186.12
-||generativelanguage.googleapis.com^$dnsrewrite=80.90.186.12
 ||geolocation.onetrust.com^$dnsrewrite=80.90.186.12
 ||germania.one^$dnsrewrite=80.90.186.12
 ||getoutline.com^$dnsrewrite=80.90.186.12
@@ -768,6 +766,7 @@
 ||unscreen.com^$dnsrewrite=80.90.186.12
 ||upwork.com^$dnsrewrite=80.90.186.12
 ||usa.one^$dnsrewrite=80.90.186.12
+||usatoday.com^$dnsrewrite=80.90.186.12
 ||vagrantcloud.com^$dnsrewrite=80.90.186.12
 ||veeam.com^$dnsrewrite=80.90.186.12
 ||verstka.media^$dnsrewrite=80.90.186.12
