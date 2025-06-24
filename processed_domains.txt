@@ -4,6 +4,7 @@
 ||24.kg^$dnsrewrite=80.90.186.12
 ||4freerussia.org^$dnsrewrite=80.90.186.12
 ||4pda.to^$dnsrewrite=80.90.186.12
+||4pda.ws^$dnsrewrite=80.90.186.12
 ||4pna.com^$dnsrewrite=80.90.186.12
 ||5sim.net^$dnsrewrite=80.90.186.12
 ||7dniv.rv.ua^$dnsrewrite=80.90.186.12
@@ -35,8 +36,10 @@
 ||amx.com^$dnsrewrite=80.90.186.12
 ||analog.com^$dnsrewrite=80.90.186.12
 ||anidub.com^$dnsrewrite=80.90.186.12
+||anilibria.org^$dnsrewrite=80.90.186.12
 ||anilibria.tv^$dnsrewrite=80.90.186.12
 ||anilibria.uno^$dnsrewrite=80.90.186.12
+||anilibria.wtf^$dnsrewrite=80.90.186.12
 ||animaunt.org^$dnsrewrite=80.90.186.12
 ||anime-portal.su^$dnsrewrite=80.90.186.12
 ||animebest.org^$dnsrewrite=80.90.186.12
@@ -122,6 +125,7 @@
 ||cherta.media^$dnsrewrite=80.90.186.12
 ||chess.com^$dnsrewrite=80.90.186.12
 ||cisco.com^$dnsrewrite=80.90.186.12
+||citrix.com^$dnsrewrite=80.90.186.12
 ||clamav.net^$dnsrewrite=80.90.186.12
 ||clashofclans.com^$dnsrewrite=80.90.186.12
 ||clashroyaleapp.com^$dnsrewrite=80.90.186.12
@@ -157,6 +161,7 @@
 ||danbooru.donmai.us^$dnsrewrite=80.90.186.12
 ||data-cdn.mbamupdates.com^$dnsrewrite=80.90.186.12
 ||decrypt.day^$dnsrewrite=80.90.186.12
+||deepl.com^$dnsrewrite=80.90.186.12
 ||deepstatemap.live^$dnsrewrite=80.90.186.12
 ||delfi.lt^$dnsrewrite=80.90.186.12
 ||delfi.lv^$dnsrewrite=80.90.186.12
@@ -216,6 +221,7 @@
 ||element14.com^$dnsrewrite=80.90.186.12
 ||elevenlabs.io^$dnsrewrite=80.90.186.12
 ||epidemz.net.co^$dnsrewrite=80.90.186.12
+||eporner.com^$dnsrewrite=80.90.186.12
 ||etsy.com^$dnsrewrite=80.90.186.12
 ||euronews.com^$dnsrewrite=80.90.186.12
 ||euroradio.fm^$dnsrewrite=80.90.186.12
@@ -306,6 +312,7 @@
 ||hackmd.io^$dnsrewrite=80.90.186.12
 ||halooglasi.com^$dnsrewrite=80.90.186.12
 ||hashicorp.com^$dnsrewrite=80.90.186.12
+||haydaygame.com^$dnsrewrite=80.90.186.12
 ||hbomax.com^$dnsrewrite=80.90.186.12
 ||hd-rezka.tv^$dnsrewrite=80.90.186.12
 ||hdkinoteatr.com^$dnsrewrite=80.90.186.12
@@ -672,11 +679,13 @@
 ||smartbear.co^$dnsrewrite=80.90.186.12
 ||smartbear.com^$dnsrewrite=80.90.186.12
 ||smartdeploy.com^$dnsrewrite=80.90.186.12
+||sndcdn.com^$dnsrewrite=80.90.186.12
 ||snort.org^$dnsrewrite=80.90.186.12
 ||snyk.io^$dnsrewrite=80.90.186.12
 ||sobesednik.com^$dnsrewrite=80.90.186.12
 ||solarwinds.com^$dnsrewrite=80.90.186.12
 ||sora.com^$dnsrewrite=80.90.186.12
+||soundcloud.cloud^$dnsrewrite=80.90.186.12
 ||soundcloud.com^$dnsrewrite=80.90.186.12
 ||sovetromantica.com^$dnsrewrite=80.90.186.12
 ||spacelift.io^$dnsrewrite=80.90.186.12
@@ -698,6 +707,7 @@
 ||strava.com^$dnsrewrite=80.90.186.12
 ||suggestqueries.google.com^$dnsrewrite=80.90.186.12
 ||supercell.com^$dnsrewrite=80.90.186.12
+||supersliv.biz^$dnsrewrite=80.90.186.12
 ||support.xerox.com^$dnsrewrite=80.90.186.12
 ||surfshark.com^$dnsrewrite=80.90.186.12
 ||surveymonkey.com^$dnsrewrite=80.90.186.12
@@ -852,6 +862,7 @@
 ||xvideos-cdn.com^$dnsrewrite=80.90.186.12
 ||xvideos.com^$dnsrewrite=80.90.186.12
 ||yle.fi^$dnsrewrite=80.90.186.12
+||youtrack.cloud^$dnsrewrite=80.90.186.12
 ||youtu.be^$dnsrewrite=80.90.186.12
 ||youtube-nocookie.com^$dnsrewrite=80.90.186.12
 ||youtube-ui.l.google.com^$dnsrewrite=80.90.186.12
