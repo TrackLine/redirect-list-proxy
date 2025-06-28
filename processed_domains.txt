@@ -35,6 +35,7 @@
 ||amplitude.com^$dnsrewrite=80.90.186.12
 ||amx.com^$dnsrewrite=80.90.186.12
 ||analog.com^$dnsrewrite=80.90.186.12
+||andrevi.ch^$dnsrewrite=80.90.186.12
 ||anidub.com^$dnsrewrite=80.90.186.12
 ||anilibria.org^$dnsrewrite=80.90.186.12
 ||anilibria.tv^$dnsrewrite=80.90.186.12
@@ -63,6 +64,7 @@
 ||atn.ua^$dnsrewrite=80.90.186.12
 ||att.com^$dnsrewrite=80.90.186.12
 ||attachments.f95zone.to^$dnsrewrite=80.90.186.12
+||audiobookbay.lu^$dnsrewrite=80.90.186.12
 ||autodesk.com^$dnsrewrite=80.90.186.12
 ||avira.com^$dnsrewrite=80.90.186.12
 ||azathabar.com^$dnsrewrite=80.90.186.12
@@ -86,6 +88,7 @@
 ||blinkshot.io^$dnsrewrite=80.90.186.12
 ||bluehost.com^$dnsrewrite=80.90.186.12
 ||booktracker.org^$dnsrewrite=80.90.186.12
+||boominfo.org^$dnsrewrite=80.90.186.12
 ||booth.pm^$dnsrewrite=80.90.186.12
 ||booth.pximg.net^$dnsrewrite=80.90.186.12
 ||bosch.com^$dnsrewrite=80.90.186.12
@@ -95,6 +98,7 @@
 ||brawlstarsgame.com^$dnsrewrite=80.90.186.12
 ||broadcom.com^$dnsrewrite=80.90.186.12
 ||broncosportforum.com^$dnsrewrite=80.90.186.12
+||bt4gprx.com^$dnsrewrite=80.90.186.12
 ||btdig.com^$dnsrewrite=80.90.186.12
 ||btod.com^$dnsrewrite=80.90.186.12
 ||buanzo.org^$dnsrewrite=80.90.186.12
@@ -125,6 +129,7 @@
 ||cherta.media^$dnsrewrite=80.90.186.12
 ||chess.com^$dnsrewrite=80.90.186.12
 ||cisco.com^$dnsrewrite=80.90.186.12
+||cisecurity.org^$dnsrewrite=80.90.186.12
 ||citrix.com^$dnsrewrite=80.90.186.12
 ||clamav.net^$dnsrewrite=80.90.186.12
 ||clashofclans.com^$dnsrewrite=80.90.186.12
@@ -132,6 +137,7 @@
 ||claude.ai^$dnsrewrite=80.90.186.12
 ||clickup.com^$dnsrewrite=80.90.186.12
 ||clip.opus.pro^$dnsrewrite=80.90.186.12
+||cloudtorrents.com^$dnsrewrite=80.90.186.12
 ||cms-twdigitalassets.com^$dnsrewrite=80.90.186.12
 ||cnd2exp.online^$dnsrewrite=80.90.186.12
 ||cock.li^$dnsrewrite=80.90.186.12
@@ -240,6 +246,7 @@
 ||fbcdn.net^$dnsrewrite=80.90.186.12
 ||fbsbx.com^$dnsrewrite=80.90.186.12
 ||ficbook.net^$dnsrewrite=80.90.186.12
+||filebin.net^$dnsrewrite=80.90.186.12
 ||filmitorrent.net^$dnsrewrite=80.90.186.12
 ||filmix.ac^$dnsrewrite=80.90.186.12
 ||filmix.biz^$dnsrewrite=80.90.186.12
@@ -297,6 +304,7 @@
 ||googlevideo.com^$dnsrewrite=80.90.186.12
 ||gpsonextra.net^$dnsrewrite=80.90.186.12
 ||gpu-monkey.com^$dnsrewrite=80.90.186.12
+||gql.twitch.tv^$dnsrewrite=80.90.186.12
 ||gr-assets.com^$dnsrewrite=80.90.186.12
 ||grafana.com^$dnsrewrite=80.90.186.12
 ||grani.ru^$dnsrewrite=80.90.186.12
@@ -326,6 +334,7 @@
 ||hollisterco.com^$dnsrewrite=80.90.186.12
 ||holod.media^$dnsrewrite=80.90.186.12
 ||home-connect.com^$dnsrewrite=80.90.186.12
+||home.by.me^$dnsrewrite=80.90.186.12
 ||hostgator.com^$dnsrewrite=80.90.186.12
 ||hostinger.com^$dnsrewrite=80.90.186.12
 ||hotels.com^$dnsrewrite=80.90.186.12
@@ -342,6 +351,7 @@
 ||ign.com^$dnsrewrite=80.90.186.12
 ||iherb.com^$dnsrewrite=80.90.186.12
 ||iichan.hk^$dnsrewrite=80.90.186.12
+||ikea.com^$dnsrewrite=80.90.186.12
 ||ilook.tv^$dnsrewrite=80.90.186.12
 ||image.tmdb.org^$dnsrewrite=80.90.186.12
 ||important-stories.com^$dnsrewrite=80.90.186.12
@@ -388,6 +398,7 @@
 ||kinozal.guru^$dnsrewrite=80.90.186.12
 ||kinozal.me^$dnsrewrite=80.90.186.12
 ||kinozal.tv^$dnsrewrite=80.90.186.12
+||kinozaltv.life^$dnsrewrite=80.90.186.12
 ||kmail-lists.com^$dnsrewrite=80.90.186.12
 ||knews.kg^$dnsrewrite=80.90.186.12
 ||knowyourmeme.com^$dnsrewrite=80.90.186.12
@@ -445,6 +456,7 @@
 ||metacritic.com^$dnsrewrite=80.90.186.12
 ||metal-archives.com^$dnsrewrite=80.90.186.12
 ||metla.press^$dnsrewrite=80.90.186.12
+||metopera.org^$dnsrewrite=80.90.186.12
 ||middlewareinventory.com^$dnsrewrite=80.90.186.12
 ||mignews.com^$dnsrewrite=80.90.186.12
 ||mixcloud.com^$dnsrewrite=80.90.186.12
@@ -542,8 +554,11 @@
 ||paperpaper.ru^$dnsrewrite=80.90.186.12
 ||patreon.com^$dnsrewrite=80.90.186.12
 ||patriot.dp.ua^$dnsrewrite=80.90.186.12
+||pb.wtf^$dnsrewrite=80.90.186.12
 ||pcgamesn.com^$dnsrewrite=80.90.186.12
 ||pcmag.com^$dnsrewrite=80.90.186.12
+||penguin.com^$dnsrewrite=80.90.186.12
+||penguinrandomhouse.com^$dnsrewrite=80.90.186.12
 ||periscope.tv^$dnsrewrite=80.90.186.12
 ||pexels.com^$dnsrewrite=80.90.186.12
 ||phncdn.com^$dnsrewrite=80.90.186.12
@@ -650,6 +665,7 @@
 ||seasonvar.ru^$dnsrewrite=80.90.186.12
 ||selezen.org^$dnsrewrite=80.90.186.12
 ||semnasem.org^$dnsrewrite=80.90.186.12
+||semrush.com^$dnsrewrite=80.90.186.12
 ||sentry.io^$dnsrewrite=80.90.186.12
 ||sephora.com^$dnsrewrite=80.90.186.12
 ||servarr.com^$dnsrewrite=80.90.186.12
@@ -676,6 +692,7 @@
 ||skycdp.com^$dnsrewrite=80.90.186.12
 ||slashlib.me^$dnsrewrite=80.90.186.12
 ||slavicsac.com^$dnsrewrite=80.90.186.12
+||slifki.biz^$dnsrewrite=80.90.186.12
 ||smartbear.co^$dnsrewrite=80.90.186.12
 ||smartbear.com^$dnsrewrite=80.90.186.12
 ||smartdeploy.com^$dnsrewrite=80.90.186.12
@@ -742,6 +759,7 @@
 ||theins.press^$dnsrewrite=80.90.186.12
 ||theins.ru^$dnsrewrite=80.90.186.12
 ||themoviedb.org^$dnsrewrite=80.90.186.12
+||thepiratebay.org^$dnsrewrite=80.90.186.12
 ||thetruestory.news^$dnsrewrite=80.90.186.12
 ||threads.net^$dnsrewrite=80.90.186.12
 ||threema.ch^$dnsrewrite=80.90.186.12
@@ -805,6 +823,7 @@
 ||upwork.com^$dnsrewrite=80.90.186.12
 ||usa.one^$dnsrewrite=80.90.186.12
 ||usatoday.com^$dnsrewrite=80.90.186.12
+||usher.ttvnw.net^$dnsrewrite=80.90.186.12
 ||vagrantcloud.com^$dnsrewrite=80.90.186.12
 ||veeam.com^$dnsrewrite=80.90.186.12
 ||verstka.media^$dnsrewrite=80.90.186.12
