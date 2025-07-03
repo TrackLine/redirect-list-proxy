@@ -708,6 +708,7 @@
 ||spacelift.io^$dnsrewrite=80.90.186.12
 ||spektr.press^$dnsrewrite=80.90.186.12
 ||spiceworks.com^$dnsrewrite=80.90.186.12
+||spiegel.de^$dnsrewrite=80.90.186.12
 ||spitfireaudio.com^$dnsrewrite=80.90.186.12
 ||spotify.com^$dnsrewrite=80.90.186.12
 ||spreadthesign.com^$dnsrewrite=80.90.186.12
