@@ -435,6 +435,7 @@
 ||mailfence.com^$dnsrewrite=80.90.186.12
 ||mailinator.com^$dnsrewrite=80.90.186.12
 ||mailo.com^$dnsrewrite=80.90.186.12
+||make.com^$dnsrewrite=80.90.186.12
 ||malwarebytes.com^$dnsrewrite=80.90.186.12
 ||mangadex.org^$dnsrewrite=80.90.186.12
 ||mangahub.ru^$dnsrewrite=80.90.186.12
@@ -598,7 +599,6 @@
 ||psiphon.ca^$dnsrewrite=80.90.186.12
 ||public.parsec.app^$dnsrewrite=80.90.186.12
 ||qt.io^$dnsrewrite=80.90.186.12
-||quickconnect.to^$dnsrewrite=80.90.186.12
 ||quora.com^$dnsrewrite=80.90.186.12
 ||quora.com.cdn.cloudflare.net^$dnsrewrite=80.90.186.12
 ||r4.err.ee^$dnsrewrite=80.90.186.12
