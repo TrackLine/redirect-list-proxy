@@ -37,6 +37,7 @@
 ||analog.com^$dnsrewrite=80.90.186.12
 ||andrevi.ch^$dnsrewrite=80.90.186.12
 ||anidub.com^$dnsrewrite=80.90.186.12
+||anilib.me^$dnsrewrite=80.90.186.12
 ||anilibria.org^$dnsrewrite=80.90.186.12
 ||anilibria.tv^$dnsrewrite=80.90.186.12
 ||anilibria.uno^$dnsrewrite=80.90.186.12
@@ -50,12 +51,14 @@
 ||anistar.org^$dnsrewrite=80.90.186.12
 ||anistars.ru^$dnsrewrite=80.90.186.12
 ||annas-archive.org^$dnsrewrite=80.90.186.12
+||ansys.com^$dnsrewrite=80.90.186.12
 ||anthropic.com^$dnsrewrite=80.90.186.12
 ||aol.com^$dnsrewrite=80.90.186.12
 ||api.jetbrains.ai^$dnsrewrite=80.90.186.12
 ||api.service-kp.com^$dnsrewrite=80.90.186.12
 ||api.theins.info^$dnsrewrite=80.90.186.12
 ||api.themoviedb.org^$dnsrewrite=80.90.186.12
+||apkmirror.com^$dnsrewrite=80.90.186.12
 ||arbat.media^$dnsrewrite=80.90.186.12
 ||archive.ph^$dnsrewrite=80.90.186.12
 ||archiveofourown.org^$dnsrewrite=80.90.186.12
@@ -225,6 +228,7 @@
 ||ej.ru^$dnsrewrite=80.90.186.12
 ||ekhokavkaza.com^$dnsrewrite=80.90.186.12
 ||element14.com^$dnsrewrite=80.90.186.12
+||elements.envato.com^$dnsrewrite=80.90.186.12
 ||elevenlabs.io^$dnsrewrite=80.90.186.12
 ||epidemz.net.co^$dnsrewrite=80.90.186.12
 ||eporner.com^$dnsrewrite=80.90.186.12
@@ -428,6 +432,7 @@
 ||locals.md^$dnsrewrite=80.90.186.12
 ||lolz.guru^$dnsrewrite=80.90.186.12
 ||lookerstudio.google.com^$dnsrewrite=80.90.186.12
+||lostfilm.download^$dnsrewrite=80.90.186.12
 ||lostfilm.tv^$dnsrewrite=80.90.186.12
 ||lostfilmtv2.site^$dnsrewrite=80.90.186.12
 ||lucid.app^$dnsrewrite=80.90.186.12
@@ -702,6 +707,7 @@
 ||sobesednik.com^$dnsrewrite=80.90.186.12
 ||solarwinds.com^$dnsrewrite=80.90.186.12
 ||sora.com^$dnsrewrite=80.90.186.12
+||sotaproject.com^$dnsrewrite=80.90.186.12
 ||soundcloud.cloud^$dnsrewrite=80.90.186.12
 ||soundcloud.com^$dnsrewrite=80.90.186.12
 ||sovetromantica.com^$dnsrewrite=80.90.186.12
@@ -780,6 +786,7 @@
 ||tmdb-image-prod.b-cdn.net^$dnsrewrite=80.90.186.12
 ||tmdb.com^$dnsrewrite=80.90.186.12
 ||tmdb.org^$dnsrewrite=80.90.186.12
+||toolbox.app^$dnsrewrite=80.90.186.12
 ||torproject.org^$dnsrewrite=80.90.186.12
 ||torrenteditor.com^$dnsrewrite=80.90.186.12
 ||torrentgalaxy.to^$dnsrewrite=80.90.186.12
