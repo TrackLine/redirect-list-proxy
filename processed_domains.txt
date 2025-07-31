@@ -221,6 +221,7 @@
 ||dw.com^$dnsrewrite=80.90.186.12
 ||e621.net^$dnsrewrite=80.90.186.12
 ||echofm.online^$dnsrewrite=80.90.186.12
+||editorx.com^$dnsrewrite=80.90.186.12
 ||edu-cisco.org^$dnsrewrite=80.90.186.12
 ||ef.com^$dnsrewrite=80.90.186.12
 ||ef.edu^$dnsrewrite=80.90.186.12
@@ -238,6 +239,7 @@
 ||eutrp.eu^$dnsrewrite=80.90.186.12
 ||everand.com^$dnsrewrite=80.90.186.12
 ||exler.ru^$dnsrewrite=80.90.186.12
+||expandrive.com^$dnsrewrite=80.90.186.12
 ||expres.online^$dnsrewrite=80.90.186.12
 ||extremetech.com^$dnsrewrite=80.90.186.12
 ||f1.com^$dnsrewrite=80.90.186.12
@@ -326,6 +328,8 @@
 ||hashicorp.com^$dnsrewrite=80.90.186.12
 ||haydaygame.com^$dnsrewrite=80.90.186.12
 ||hbomax.com^$dnsrewrite=80.90.186.12
+||hc-ping.com^$dnsrewrite=80.90.186.12
+||hchk.io^$dnsrewrite=80.90.186.12
 ||hd-rezka.tv^$dnsrewrite=80.90.186.12
 ||hdkinoteatr.com^$dnsrewrite=80.90.186.12
 ||hdrezka.ac^$dnsrewrite=80.90.186.12
@@ -350,6 +354,7 @@
 ||ibm.com^$dnsrewrite=80.90.186.12
 ||ibytedtos.com^$dnsrewrite=80.90.186.12
 ||idelreal.org^$dnsrewrite=80.90.186.12
+||iditelesombase.org^$dnsrewrite=80.90.186.12
 ||iedb.org^$dnsrewrite=80.90.186.12
 ||ig.me^$dnsrewrite=80.90.186.12
 ||ign.com^$dnsrewrite=80.90.186.12
@@ -387,6 +392,7 @@
 ||jut-su.net^$dnsrewrite=80.90.186.12
 ||jut.su^$dnsrewrite=80.90.186.12
 ||kaktus.media^$dnsrewrite=80.90.186.12
+||kaleido.ai^$dnsrewrite=80.90.186.12
 ||kamatera.com^$dnsrewrite=80.90.186.12
 ||kara.su^$dnsrewrite=80.90.186.12
 ||kasparov.ru^$dnsrewrite=80.90.186.12
@@ -435,8 +441,10 @@
 ||lostfilm.download^$dnsrewrite=80.90.186.12
 ||lostfilm.tv^$dnsrewrite=80.90.186.12
 ||lostfilmtv2.site^$dnsrewrite=80.90.186.12
+||lu4.org^$dnsrewrite=80.90.186.12
 ||lucid.app^$dnsrewrite=80.90.186.12
 ||mail-api.proton.me^$dnsrewrite=80.90.186.12
+||mailerlite.com^$dnsrewrite=80.90.186.12
 ||mailfence.com^$dnsrewrite=80.90.186.12
 ||mailinator.com^$dnsrewrite=80.90.186.12
 ||mailo.com^$dnsrewrite=80.90.186.12
@@ -477,9 +485,11 @@
 ||muscdn.com^$dnsrewrite=80.90.186.12
 ||musical.ly^$dnsrewrite=80.90.186.12
 ||musixmatch.com^$dnsrewrite=80.90.186.12
+||mw2.wiki^$dnsrewrite=80.90.186.12
 ||mydoramy.club^$dnsrewrite=80.90.186.12
 ||myheritage.com^$dnsrewrite=80.90.186.12
 ||myjetbrains.com^$dnsrewrite=80.90.186.12
+||myqrcode.com^$dnsrewrite=80.90.186.12
 ||navalny.com^$dnsrewrite=80.90.186.12
 ||nba.com^$dnsrewrite=80.90.186.12
 ||neformat.com.ua^$dnsrewrite=80.90.186.12
@@ -634,6 +644,7 @@
 ||rezonans.media^$dnsrewrite=80.90.186.12
 ||rf.dobrochan.net^$dnsrewrite=80.90.186.12
 ||rferl.org^$dnsrewrite=80.90.186.12
+||rima.media^$dnsrewrite=80.90.186.12
 ||riperam.org^$dnsrewrite=80.90.186.12
 ||riseup.net^$dnsrewrite=80.90.186.12
 ||roar-review.com^$dnsrewrite=80.90.186.12
@@ -712,6 +723,7 @@
 ||soundcloud.com^$dnsrewrite=80.90.186.12
 ||sovetromantica.com^$dnsrewrite=80.90.186.12
 ||spacelift.io^$dnsrewrite=80.90.186.12
+||speedtest.net^$dnsrewrite=80.90.186.12
 ||spektr.press^$dnsrewrite=80.90.186.12
 ||spiceworks.com^$dnsrewrite=80.90.186.12
 ||spiegel.de^$dnsrewrite=80.90.186.12
