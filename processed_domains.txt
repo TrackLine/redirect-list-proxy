@@ -59,6 +59,7 @@
 ||api.theins.info^$dnsrewrite=80.90.186.12
 ||api.themoviedb.org^$dnsrewrite=80.90.186.12
 ||apkmirror.com^$dnsrewrite=80.90.186.12
+||app.zerossl.com^$dnsrewrite=80.90.186.12
 ||arbat.media^$dnsrewrite=80.90.186.12
 ||archive.ph^$dnsrewrite=80.90.186.12
 ||archiveofourown.org^$dnsrewrite=80.90.186.12
@@ -367,6 +368,7 @@
 ||ikea.com^$dnsrewrite=80.90.186.12
 ||ilook.tv^$dnsrewrite=80.90.186.12
 ||image.tmdb.org^$dnsrewrite=80.90.186.12
+||imgur.com^$dnsrewrite=80.90.186.12
 ||important-stories.com^$dnsrewrite=80.90.186.12
 ||indiehackers.com^$dnsrewrite=80.90.186.12
 ||infineon.com^$dnsrewrite=80.90.186.12
@@ -395,6 +397,8 @@
 ||jskor.ill.in.ua^$dnsrewrite=80.90.186.12
 ||jut-su.net^$dnsrewrite=80.90.186.12
 ||jut.su^$dnsrewrite=80.90.186.12
+||jw-russia.org^$dnsrewrite=80.90.186.12
+||jw.org^$dnsrewrite=80.90.186.12
 ||kaktus.media^$dnsrewrite=80.90.186.12
 ||kaleido.ai^$dnsrewrite=80.90.186.12
 ||kamatera.com^$dnsrewrite=80.90.186.12
@@ -477,6 +481,7 @@
 ||metopera.org^$dnsrewrite=80.90.186.12
 ||middlewareinventory.com^$dnsrewrite=80.90.186.12
 ||mignews.com^$dnsrewrite=80.90.186.12
+||miracleptr.wordpress.com^$dnsrewrite=80.90.186.12
 ||mixcloud.com^$dnsrewrite=80.90.186.12
 ||mongodb.com^$dnsrewrite=80.90.186.12
 ||monoprice.com^$dnsrewrite=80.90.186.12
@@ -727,6 +732,8 @@
 ||smartbear.co^$dnsrewrite=80.90.186.12
 ||smartbear.com^$dnsrewrite=80.90.186.12
 ||smartdeploy.com^$dnsrewrite=80.90.186.12
+||sms-activate.io^$dnsrewrite=80.90.186.12
+||snapgene.com^$dnsrewrite=80.90.186.12
 ||sndcdn.com^$dnsrewrite=80.90.186.12
 ||snort.org^$dnsrewrite=80.90.186.12
 ||snyk.io^$dnsrewrite=80.90.186.12
@@ -852,6 +859,7 @@
 ||typing.com^$dnsrewrite=80.90.186.12
 ||uaudio.com^$dnsrewrite=80.90.186.12
 ||ui.ill.in.ua^$dnsrewrite=80.90.186.12
+||uizard.io^$dnsrewrite=80.90.186.12
 ||ukr.net^$dnsrewrite=80.90.186.12
 ||ukr.radio^$dnsrewrite=80.90.186.12
 ||ukrtelcdn.net^$dnsrewrite=80.90.186.12
