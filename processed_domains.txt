@@ -54,6 +54,7 @@
 ||ansys.com^$dnsrewrite=80.90.186.12
 ||anthropic.com^$dnsrewrite=80.90.186.12
 ||aol.com^$dnsrewrite=80.90.186.12
+||api.github.com^$dnsrewrite=80.90.186.12
 ||api.jetbrains.ai^$dnsrewrite=80.90.186.12
 ||api.service-kp.com^$dnsrewrite=80.90.186.12
 ||api.theins.info^$dnsrewrite=80.90.186.12
@@ -171,6 +172,7 @@
 ||daemon-tools.cc^$dnsrewrite=80.90.186.12
 ||danbooru.donmai.us^$dnsrewrite=80.90.186.12
 ||data-cdn.mbamupdates.com^$dnsrewrite=80.90.186.12
+||data.cline.bot^$dnsrewrite=80.90.186.12
 ||decrypt.day^$dnsrewrite=80.90.186.12
 ||deepl.com^$dnsrewrite=80.90.186.12
 ||deepstatemap.live^$dnsrewrite=80.90.186.12
@@ -243,6 +245,7 @@
 ||euroradio.fm^$dnsrewrite=80.90.186.12
 ||eutrp.eu^$dnsrewrite=80.90.186.12
 ||everand.com^$dnsrewrite=80.90.186.12
+||exchanger.bits.media^$dnsrewrite=80.90.186.12
 ||exler.ru^$dnsrewrite=80.90.186.12
 ||expandrive.com^$dnsrewrite=80.90.186.12
 ||expres.online^$dnsrewrite=80.90.186.12
@@ -251,6 +254,7 @@
 ||f95-zone.to^$dnsrewrite=80.90.186.12
 ||facebook.com^$dnsrewrite=80.90.186.12
 ||facebook.net^$dnsrewrite=80.90.186.12
+||fansly.com^$dnsrewrite=80.90.186.12
 ||fast-torrent.club^$dnsrewrite=80.90.186.12
 ||fast.com^$dnsrewrite=80.90.186.12
 ||fb.com^$dnsrewrite=80.90.186.12
@@ -303,6 +307,7 @@
 ||gfn.am^$dnsrewrite=80.90.186.12
 ||ggpht.com^$dnsrewrite=80.90.186.12
 ||ghostrc.game.idtech.services^$dnsrewrite=80.90.186.12
+||githubcopilot.com^$dnsrewrite=80.90.186.12
 ||global.fncstatic.com^$dnsrewrite=80.90.186.12
 ||global.platform.seconddinnertech.com^$dnsrewrite=80.90.186.12
 ||glpals.com^$dnsrewrite=80.90.186.12
@@ -466,6 +471,7 @@
 ||mangahub.ru^$dnsrewrite=80.90.186.12
 ||mangapark.net^$dnsrewrite=80.90.186.12
 ||manus.im^$dnsrewrite=80.90.186.12
+||manyvids.com^$dnsrewrite=80.90.186.12
 ||marvelsnap.com^$dnsrewrite=80.90.186.12
 ||mashable.com^$dnsrewrite=80.90.186.12
 ||mattermost.com^$dnsrewrite=80.90.186.12
