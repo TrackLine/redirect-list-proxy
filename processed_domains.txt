@@ -54,7 +54,6 @@
 ||ansys.com^$dnsrewrite=80.90.186.12
 ||anthropic.com^$dnsrewrite=80.90.186.12
 ||aol.com^$dnsrewrite=80.90.186.12
-||api.github.com^$dnsrewrite=80.90.186.12
 ||api.jetbrains.ai^$dnsrewrite=80.90.186.12
 ||api.service-kp.com^$dnsrewrite=80.90.186.12
 ||api.theins.info^$dnsrewrite=80.90.186.12
@@ -307,7 +306,6 @@
 ||gfn.am^$dnsrewrite=80.90.186.12
 ||ggpht.com^$dnsrewrite=80.90.186.12
 ||ghostrc.game.idtech.services^$dnsrewrite=80.90.186.12
-||githubcopilot.com^$dnsrewrite=80.90.186.12
 ||global.fncstatic.com^$dnsrewrite=80.90.186.12
 ||global.platform.seconddinnertech.com^$dnsrewrite=80.90.186.12
 ||glpals.com^$dnsrewrite=80.90.186.12
