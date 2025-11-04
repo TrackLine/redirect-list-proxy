@@ -25,6 +25,8 @@
 ||ahrefs.com^$dnsrewrite=80.90.186.12
 ||ai-chat.bsg.brave.com^$dnsrewrite=80.90.186.12
 ||ai.com^$dnsrewrite=80.90.186.12
+||aircanada.com^$dnsrewrite=80.90.186.12
+||akc.org^$dnsrewrite=80.90.186.12
 ||allegro.pl^$dnsrewrite=80.90.186.12
 ||alphacoders.com^$dnsrewrite=80.90.186.12
 ||alza.hu^$dnsrewrite=80.90.186.12
@@ -66,6 +68,7 @@
 ||archiveofourown.org^$dnsrewrite=80.90.186.12
 ||as6723.net^$dnsrewrite=80.90.186.12
 ||assets.heroku.com^$dnsrewrite=80.90.186.12
+||atlassian.com^$dnsrewrite=80.90.186.12
 ||atn.ua^$dnsrewrite=80.90.186.12
 ||att.com^$dnsrewrite=80.90.186.12
 ||attachments.f95zone.to^$dnsrewrite=80.90.186.12
@@ -134,6 +137,7 @@
 ||chaturbate.com^$dnsrewrite=80.90.186.12
 ||cherta.media^$dnsrewrite=80.90.186.12
 ||chess.com^$dnsrewrite=80.90.186.12
+||chesscomfiles.com^$dnsrewrite=80.90.186.12
 ||chub.ai^$dnsrewrite=80.90.186.12
 ||cisco.com^$dnsrewrite=80.90.186.12
 ||cisecurity.org^$dnsrewrite=80.90.186.12
@@ -159,6 +163,7 @@
 ||coldfilm.xyz^$dnsrewrite=80.90.186.12
 ||colta.ru^$dnsrewrite=80.90.186.12
 ||community.sophos.com^$dnsrewrite=80.90.186.12
+||connect.ngrok-agent.com^$dnsrewrite=80.90.186.12
 ||contabo.com^$dnsrewrite=80.90.186.12
 ||coomer.su^$dnsrewrite=80.90.186.12
 ||copilot.microsoft.com^$dnsrewrite=80.90.186.12
@@ -195,6 +200,7 @@
 ||developer.nvidia.com^$dnsrewrite=80.90.186.12
 ||devexpress.com^$dnsrewrite=80.90.186.12
 ||deviantart.com^$dnsrewrite=80.90.186.12
+||diabrowser.com^$dnsrewrite=80.90.186.12
 ||digash.live^$dnsrewrite=80.90.186.12
 ||digikey.com^$dnsrewrite=80.90.186.12
 ||digitalcontent.sky^$dnsrewrite=80.90.186.12
@@ -406,6 +412,7 @@
 ||image.tmdb.org^$dnsrewrite=80.90.186.12
 ||imgur.com^$dnsrewrite=80.90.186.12
 ||important-stories.com^$dnsrewrite=80.90.186.12
+||indeed.com^$dnsrewrite=80.90.186.12
 ||indiehackers.com^$dnsrewrite=80.90.186.12
 ||infineon.com^$dnsrewrite=80.90.186.12
 ||insearch.site^$dnsrewrite=80.90.186.12
@@ -425,7 +432,6 @@
 ||is.fi^$dnsrewrite=80.90.186.12
 ||istories.media^$dnsrewrite=80.90.186.12
 ||itch.io^$dnsrewrite=80.90.186.12
-||itdog.info^$dnsrewrite=80.90.186.12
 ||itninja.com^$dnsrewrite=80.90.186.12
 ||itsmycity.ru^$dnsrewrite=80.90.186.12
 ||jamf.com^$dnsrewrite=80.90.186.12
@@ -536,6 +542,7 @@
 ||monoprice.com^$dnsrewrite=80.90.186.12
 ||more.fm^$dnsrewrite=80.90.186.12
 ||moscowtimes.ru^$dnsrewrite=80.90.186.12
+||mouser.com^$dnsrewrite=80.90.186.12
 ||mouser.fi^$dnsrewrite=80.90.186.12
 ||mssg.me^$dnsrewrite=80.90.186.12
 ||mullvad.net^$dnsrewrite=80.90.186.12
@@ -554,6 +561,7 @@
 ||nba.com^$dnsrewrite=80.90.186.12
 ||neformat.com.ua^$dnsrewrite=80.90.186.12
 ||neo4j.com^$dnsrewrite=80.90.186.12
+||netacad.com^$dnsrewrite=80.90.186.12
 ||netapp.com^$dnsrewrite=80.90.186.12
 ||netflix.ca^$dnsrewrite=80.90.186.12
 ||netflix.com^$dnsrewrite=80.90.186.12
@@ -624,6 +632,7 @@
 ||openrouter.ai^$dnsrewrite=80.90.186.12
 ||opensanctions.org^$dnsrewrite=80.90.186.12
 ||opensea.io^$dnsrewrite=80.90.186.12
+||opentrackr.org^$dnsrewrite=80.90.186.12
 ||opposition-news.com^$dnsrewrite=80.90.186.12
 ||oracle.com^$dnsrewrite=80.90.186.12
 ||ovd.info^$dnsrewrite=80.90.186.12
@@ -802,6 +811,7 @@
 ||simplix.info^$dnsrewrite=80.90.186.12
 ||singlekey-id.com^$dnsrewrite=80.90.186.12
 ||site.com^$dnsrewrite=80.90.186.12
+||siteground.com^$dnsrewrite=80.90.186.12
 ||skat.media^$dnsrewrite=80.90.186.12
 ||sketchup.com^$dnsrewrite=80.90.186.12
 ||skiff.com^$dnsrewrite=80.90.186.12
@@ -822,6 +832,7 @@
 ||snyk.io^$dnsrewrite=80.90.186.12
 ||sobesednik.com^$dnsrewrite=80.90.186.12
 ||solarwinds.com^$dnsrewrite=80.90.186.12
+||sonara.ai^$dnsrewrite=80.90.186.12
 ||sora.com^$dnsrewrite=80.90.186.12
 ||sotaproject.com^$dnsrewrite=80.90.186.12
 ||soundcloud.cloud^$dnsrewrite=80.90.186.12
@@ -914,6 +925,7 @@
 ||trae.ai^$dnsrewrite=80.90.186.12
 ||trailblazer.me^$dnsrewrite=80.90.186.12
 ||trailhead.com^$dnsrewrite=80.90.186.12
+||transferwise.com^$dnsrewrite=80.90.186.12
 ||trellix.com^$dnsrewrite=80.90.186.12
 ||tria.ge^$dnsrewrite=80.90.186.12
 ||trueblackmetalradio.com^$dnsrewrite=80.90.186.12
@@ -929,6 +941,9 @@
 ||tvrain.tv^$dnsrewrite=80.90.186.12
 ||tweetdeck.com^$dnsrewrite=80.90.186.12
 ||twimg.com^$dnsrewrite=80.90.186.12
+||twin.me^$dnsrewrite=80.90.186.12
+||twinlife-systems.com^$dnsrewrite=80.90.186.12
+||twinme.com^$dnsrewrite=80.90.186.12
 ||twirpx.com^$dnsrewrite=80.90.186.12
 ||twitpic.com^$dnsrewrite=80.90.186.12
 ||twitter.biz^$dnsrewrite=80.90.186.12
@@ -998,6 +1013,7 @@
 ||wilsoncenter.org^$dnsrewrite=80.90.186.12
 ||windows10spotlight.com^$dnsrewrite=80.90.186.12
 ||windsurf.com^$dnsrewrite=80.90.186.12
+||wise.com^$dnsrewrite=80.90.186.12
 ||wonderzine.com^$dnsrewrite=80.90.186.12
 ||wpengine.com^$dnsrewrite=80.90.186.12
 ||wunderground.com^$dnsrewrite=80.90.186.12
