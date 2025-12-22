@@ -11,6 +11,7 @@
 ||7tv.app^$dnsrewrite=80.90.186.12
 ||7tv.io^$dnsrewrite=80.90.186.12
 ||9tv.co.il^$dnsrewrite=80.90.186.12
+||a-vrv.akamaized.net^$dnsrewrite=80.90.186.12
 ||abercrombie.com^$dnsrewrite=80.90.186.12
 ||abook-club.ru^$dnsrewrite=80.90.186.12
 ||academy.terrasoft.ua^$dnsrewrite=80.90.186.12
@@ -55,6 +56,7 @@
 ||annas-archive.org^$dnsrewrite=80.90.186.12
 ||ansys.com^$dnsrewrite=80.90.186.12
 ||anthropic.com^$dnsrewrite=80.90.186.12
+||any.do^$dnsrewrite=80.90.186.12
 ||aol.com^$dnsrewrite=80.90.186.12
 ||api.jetbrains.ai^$dnsrewrite=80.90.186.12
 ||api.service-kp.com^$dnsrewrite=80.90.186.12
@@ -66,12 +68,14 @@
 ||arc.net^$dnsrewrite=80.90.186.12
 ||archive.ph^$dnsrewrite=80.90.186.12
 ||archiveofourown.org^$dnsrewrite=80.90.186.12
+||arduino.cc^$dnsrewrite=80.90.186.12
 ||as6723.net^$dnsrewrite=80.90.186.12
 ||assets.heroku.com^$dnsrewrite=80.90.186.12
 ||atlassian.com^$dnsrewrite=80.90.186.12
 ||atn.ua^$dnsrewrite=80.90.186.12
 ||att.com^$dnsrewrite=80.90.186.12
 ||attachments.f95zone.to^$dnsrewrite=80.90.186.12
+||atv4.dnskp.cc^$dnsrewrite=80.90.186.12
 ||audiobookbay.lu^$dnsrewrite=80.90.186.12
 ||autodesk.com^$dnsrewrite=80.90.186.12
 ||avira.com^$dnsrewrite=80.90.186.12
@@ -155,6 +159,7 @@
 ||cock.li^$dnsrewrite=80.90.186.12
 ||code.gist.build^$dnsrewrite=80.90.186.12
 ||codeium.com^$dnsrewrite=80.90.186.12
+||codelinaro.org^$dnsrewrite=80.90.186.12
 ||coingate.com^$dnsrewrite=80.90.186.12
 ||coinpayments.net^$dnsrewrite=80.90.186.12
 ||coinsbee.com^$dnsrewrite=80.90.186.12
@@ -185,6 +190,7 @@
 ||danbooru.donmai.us^$dnsrewrite=80.90.186.12
 ||data-cdn.mbamupdates.com^$dnsrewrite=80.90.186.12
 ||data.cline.bot^$dnsrewrite=80.90.186.12
+||deckbrew.xyz^$dnsrewrite=80.90.186.12
 ||decrypt.day^$dnsrewrite=80.90.186.12
 ||deepl.com^$dnsrewrite=80.90.186.12
 ||deepstatemap.live^$dnsrewrite=80.90.186.12
@@ -229,6 +235,8 @@
 ||disctech.com^$dnsrewrite=80.90.186.12
 ||disneyplus.com^$dnsrewrite=80.90.186.12
 ||docs.liquibase.com^$dnsrewrite=80.90.186.12
+||document360.com^$dnsrewrite=80.90.186.12
+||document360.io^$dnsrewrite=80.90.186.12
 ||dorama.live^$dnsrewrite=80.90.186.12
 ||doramalive.ru^$dnsrewrite=80.90.186.12
 ||doramy.club^$dnsrewrite=80.90.186.12
@@ -237,6 +245,7 @@
 ||doxa.team^$dnsrewrite=80.90.186.12
 ||dpidetector.org^$dnsrewrite=80.90.186.12
 ||dreamhost.com^$dnsrewrite=80.90.186.12
+||dub.sh^$dnsrewrite=80.90.186.12
 ||ducati.com^$dnsrewrite=80.90.186.12
 ||dumka.media^$dnsrewrite=80.90.186.12
 ||dw.com^$dnsrewrite=80.90.186.12
@@ -277,6 +286,7 @@
 ||fansly.com^$dnsrewrite=80.90.186.12
 ||fast-torrent.club^$dnsrewrite=80.90.186.12
 ||fast.com^$dnsrewrite=80.90.186.12
+||fastpic.org^$dnsrewrite=80.90.186.12
 ||fb.com^$dnsrewrite=80.90.186.12
 ||fbcdn.net^$dnsrewrite=80.90.186.12
 ||fbsbx.com^$dnsrewrite=80.90.186.12
@@ -333,6 +343,7 @@
 ||ggpht.com^$dnsrewrite=80.90.186.12
 ||ghostrc.game.idtech.services^$dnsrewrite=80.90.186.12
 ||gifyu.com^$dnsrewrite=80.90.186.12
+||git.new^$dnsrewrite=80.90.186.12
 ||glavred.info^$dnsrewrite=80.90.186.12
 ||glavred.net^$dnsrewrite=80.90.186.12
 ||global.fncstatic.com^$dnsrewrite=80.90.186.12
@@ -452,6 +463,8 @@
 ||kavkazr.com^$dnsrewrite=80.90.186.12
 ||kemono.su^$dnsrewrite=80.90.186.12
 ||keysight.com^$dnsrewrite=80.90.186.12
+||kilo.ai^$dnsrewrite=80.90.186.12
+||kilocode.ai^$dnsrewrite=80.90.186.12
 ||kino.pub^$dnsrewrite=80.90.186.12
 ||kinogo.ec^$dnsrewrite=80.90.186.12
 ||kinogo.la^$dnsrewrite=80.90.186.12
@@ -479,8 +492,10 @@
 ||ldoceonline.com^$dnsrewrite=80.90.186.12
 ||le-production.tv^$dnsrewrite=80.90.186.12
 ||leafletjs.com^$dnsrewrite=80.90.186.12
+||legalshield.com^$dnsrewrite=80.90.186.12
 ||lgeapi.com^$dnsrewrite=80.90.186.12
 ||lgthinq.com^$dnsrewrite=80.90.186.12
+||lib.rus.ec^$dnsrewrite=80.90.186.12
 ||libgen.li^$dnsrewrite=80.90.186.12
 ||licdn.com^$dnsrewrite=80.90.186.12
 ||lidarr.audio^$dnsrewrite=80.90.186.12
@@ -488,6 +503,7 @@
 ||liga.net^$dnsrewrite=80.90.186.12
 ||lightning.ai^$dnsrewrite=80.90.186.12
 ||linear.app^$dnsrewrite=80.90.186.12
+||lingq.com^$dnsrewrite=80.90.186.12
 ||linkedin.com^$dnsrewrite=80.90.186.12
 ||linktr.ee^$dnsrewrite=80.90.186.12
 ||livetv.sx^$dnsrewrite=80.90.186.12
@@ -502,6 +518,7 @@
 ||lostfilmtv2.site^$dnsrewrite=80.90.186.12
 ||lu4.org^$dnsrewrite=80.90.186.12
 ||lucid.app^$dnsrewrite=80.90.186.12
+||magaz.global^$dnsrewrite=80.90.186.12
 ||mail-api.proton.me^$dnsrewrite=80.90.186.12
 ||mailerlite.com^$dnsrewrite=80.90.186.12
 ||mailfence.com^$dnsrewrite=80.90.186.12
@@ -539,6 +556,7 @@
 ||mixcloud.com^$dnsrewrite=80.90.186.12
 ||modrinth.com^$dnsrewrite=80.90.186.12
 ||mongodb.com^$dnsrewrite=80.90.186.12
+||monolisa.dev^$dnsrewrite=80.90.186.12
 ||monoprice.com^$dnsrewrite=80.90.186.12
 ||more.fm^$dnsrewrite=80.90.186.12
 ||moscowtimes.ru^$dnsrewrite=80.90.186.12
@@ -549,6 +567,7 @@
 ||multporn.net^$dnsrewrite=80.90.186.12
 ||muscdn.com^$dnsrewrite=80.90.186.12
 ||musical.ly^$dnsrewrite=80.90.186.12
+||musicbrainz.org^$dnsrewrite=80.90.186.12
 ||musixmatch.com^$dnsrewrite=80.90.186.12
 ||mw2.wiki^$dnsrewrite=80.90.186.12
 ||myanimelist.net^$dnsrewrite=80.90.186.12
@@ -570,6 +589,7 @@
 ||netflixtechblog.com^$dnsrewrite=80.90.186.12
 ||netlify.com^$dnsrewrite=80.90.186.12
 ||networksolutions.com^$dnsrewrite=80.90.186.12
+||new.abb.com^$dnsrewrite=80.90.186.12
 ||newark.com^$dnsrewrite=80.90.186.12
 ||news.google.com^$dnsrewrite=80.90.186.12
 ||newsroom.porsche.com^$dnsrewrite=80.90.186.12
@@ -640,6 +660,8 @@
 ||ovd.news^$dnsrewrite=80.90.186.12
 ||ovdinfo.org^$dnsrewrite=80.90.186.12
 ||ozodi.org^$dnsrewrite=80.90.186.12
+||paddle.com^$dnsrewrite=80.90.186.12
+||paddlestatus.com^$dnsrewrite=80.90.186.12
 ||pages.dev^$dnsrewrite=80.90.186.12
 ||pandasecurity.com^$dnsrewrite=80.90.186.12
 ||pap.pl^$dnsrewrite=80.90.186.12
@@ -649,6 +671,7 @@
 ||parallels.com^$dnsrewrite=80.90.186.12
 ||parallels.net^$dnsrewrite=80.90.186.12
 ||parallelsaccess.com^$dnsrewrite=80.90.186.12
+||paritydeals.com^$dnsrewrite=80.90.186.12
 ||patreon.com^$dnsrewrite=80.90.186.12
 ||patriot.dp.ua^$dnsrewrite=80.90.186.12
 ||pb.wtf^$dnsrewrite=80.90.186.12
@@ -682,11 +705,13 @@
 ||pravda.com.ua^$dnsrewrite=80.90.186.12
 ||premierleague.com^$dnsrewrite=80.90.186.12
 ||primevideo.com^$dnsrewrite=80.90.186.12
+||primevue.org^$dnsrewrite=80.90.186.12
 ||privatekeys.pw^$dnsrewrite=80.90.186.12
 ||prnt.sc^$dnsrewrite=80.90.186.12
 ||proactivebackend-pa.googleapis.com^$dnsrewrite=80.90.186.12
 ||production-openaicom-storage.azureedge.net^$dnsrewrite=80.90.186.12
 ||proekt.media^$dnsrewrite=80.90.186.12
+||profitwell.com^$dnsrewrite=80.90.186.12
 ||prosleduetmedia.com^$dnsrewrite=80.90.186.12
 ||prostovpn.org^$dnsrewrite=80.90.186.12
 ||proton.me^$dnsrewrite=80.90.186.12
@@ -697,11 +722,13 @@
 ||psiphon.ca^$dnsrewrite=80.90.186.12
 ||public.parsec.app^$dnsrewrite=80.90.186.12
 ||qt.io^$dnsrewrite=80.90.186.12
+||qualcomm.com^$dnsrewrite=80.90.186.12
 ||quicknode.com^$dnsrewrite=80.90.186.12
 ||quora.com^$dnsrewrite=80.90.186.12
 ||quora.com.cdn.cloudflare.net^$dnsrewrite=80.90.186.12
 ||qwant.com^$dnsrewrite=80.90.186.12
 ||r4.err.ee^$dnsrewrite=80.90.186.12
+||radiojar.com^$dnsrewrite=80.90.186.12
 ||radiosakharov.org^$dnsrewrite=80.90.186.12
 ||radiosvoboda.org^$dnsrewrite=80.90.186.12
 ||rbc.ua^$dnsrewrite=80.90.186.12
@@ -771,6 +798,7 @@
 ||saverudata.net^$dnsrewrite=80.90.186.12
 ||sci-hub.se^$dnsrewrite=80.90.186.12
 ||sci-hub.st^$dnsrewrite=80.90.186.12
+||scrollrevealjs.org^$dnsrewrite=80.90.186.12
 ||scryde.io^$dnsrewrite=80.90.186.12
 ||scryde.net^$dnsrewrite=80.90.186.12
 ||scryde.ru^$dnsrewrite=80.90.186.12
@@ -861,6 +889,7 @@
 ||suggestqueries.google.com^$dnsrewrite=80.90.186.12
 ||supercell.com^$dnsrewrite=80.90.186.12
 ||supersliv.biz^$dnsrewrite=80.90.186.12
+||support.anydesk.com^$dnsrewrite=80.90.186.12
 ||support.xerox.com^$dnsrewrite=80.90.186.12
 ||surfshark.com^$dnsrewrite=80.90.186.12
 ||surveymonkey.com^$dnsrewrite=80.90.186.12
@@ -870,6 +899,7 @@
 ||svoi.kr.ua^$dnsrewrite=80.90.186.12
 ||svtv.org^$dnsrewrite=80.90.186.12
 ||swagger.io^$dnsrewrite=80.90.186.12
+||swapd.co^$dnsrewrite=80.90.186.12
 ||swissinfo.ch^$dnsrewrite=80.90.186.12
 ||synoforum.com^$dnsrewrite=80.90.186.12
 ||t-invariant.org^$dnsrewrite=80.90.186.12
@@ -898,6 +928,7 @@
 ||thepiratebay.org^$dnsrewrite=80.90.186.12
 ||theporndude.com^$dnsrewrite=80.90.186.12
 ||thetruestory.news^$dnsrewrite=80.90.186.12
+||thetvdb.com^$dnsrewrite=80.90.186.12
 ||threads.net^$dnsrewrite=80.90.186.12
 ||threema.ch^$dnsrewrite=80.90.186.12
 ||ti.com^$dnsrewrite=80.90.186.12
@@ -936,6 +967,7 @@
 ||tuta.com^$dnsrewrite=80.90.186.12
 ||tuta.io^$dnsrewrite=80.90.186.12
 ||tutanota.com^$dnsrewrite=80.90.186.12
+||tvdevinfo.com^$dnsrewrite=80.90.186.12
 ||tvfreedom.io^$dnsrewrite=80.90.186.12
 ||tvrain.ru^$dnsrewrite=80.90.186.12
 ||tvrain.tv^$dnsrewrite=80.90.186.12
@@ -970,9 +1002,11 @@
 ||unscreen.com^$dnsrewrite=80.90.186.12
 ||unsplash.com^$dnsrewrite=80.90.186.12
 ||upwork.com^$dnsrewrite=80.90.186.12
+||urlr.me^$dnsrewrite=80.90.186.12
 ||usa.one^$dnsrewrite=80.90.186.12
 ||usatoday.com^$dnsrewrite=80.90.186.12
 ||usher.ttvnw.net^$dnsrewrite=80.90.186.12
+||v.vrv.co^$dnsrewrite=80.90.186.12
 ||vagrantcloud.com^$dnsrewrite=80.90.186.12
 ||veeam.com^$dnsrewrite=80.90.186.12
 ||verstka.media^$dnsrewrite=80.90.186.12
@@ -987,6 +1021,7 @@
 ||vmware.com^$dnsrewrite=80.90.186.12
 ||vndb.org^$dnsrewrite=80.90.186.12
 ||voanews.com^$dnsrewrite=80.90.186.12
+||vod-fy.crunchyrollcdn.com^$dnsrewrite=80.90.186.12
 ||voidboost.cc^$dnsrewrite=80.90.186.12
 ||volkswagen-classic-parts.com^$dnsrewrite=80.90.186.12
 ||vot-tak.tv^$dnsrewrite=80.90.186.12
@@ -1023,7 +1058,9 @@
 ||xhamster.com^$dnsrewrite=80.90.186.12
 ||xhamsterlive.com^$dnsrewrite=80.90.186.12
 ||xhcdn.com^$dnsrewrite=80.90.186.12
+||xiaomi.eu^$dnsrewrite=80.90.186.12
 ||xnxx-cdn.com^$dnsrewrite=80.90.186.12
+||xnxx-ru.com^$dnsrewrite=80.90.186.12
 ||xnxx.com^$dnsrewrite=80.90.186.12
 ||xnxx.net^$dnsrewrite=80.90.186.12
 ||xnxx.tv^$dnsrewrite=80.90.186.12
