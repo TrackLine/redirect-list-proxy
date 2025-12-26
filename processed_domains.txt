@@ -77,6 +77,7 @@
 ||attachments.f95zone.to^$dnsrewrite=80.90.186.12
 ||atv4.dnskp.cc^$dnsrewrite=80.90.186.12
 ||audiobookbay.lu^$dnsrewrite=80.90.186.12
+||augmentcode.com^$dnsrewrite=80.90.186.12
 ||autodesk.com^$dnsrewrite=80.90.186.12
 ||avira.com^$dnsrewrite=80.90.186.12
 ||azathabar.com^$dnsrewrite=80.90.186.12
@@ -115,6 +116,7 @@
 ||btod.com^$dnsrewrite=80.90.186.12
 ||buanzo.org^$dnsrewrite=80.90.186.12
 ||buf.build^$dnsrewrite=80.90.186.12
+||bufferbloat.net^$dnsrewrite=80.90.186.12
 ||builds.parsec.app^$dnsrewrite=80.90.186.12
 ||buymeacoffee.com^$dnsrewrite=80.90.186.12
 ||byteoversea.com^$dnsrewrite=80.90.186.12
@@ -143,6 +145,7 @@
 ||chess.com^$dnsrewrite=80.90.186.12
 ||chesscomfiles.com^$dnsrewrite=80.90.186.12
 ||chub.ai^$dnsrewrite=80.90.186.12
+||circlecrewpinkcrowd.com^$dnsrewrite=80.90.186.12
 ||cisco.com^$dnsrewrite=80.90.186.12
 ||cisecurity.org^$dnsrewrite=80.90.186.12
 ||citrix.com^$dnsrewrite=80.90.186.12
@@ -245,6 +248,7 @@
 ||doxa.team^$dnsrewrite=80.90.186.12
 ||dpidetector.org^$dnsrewrite=80.90.186.12
 ||dreamhost.com^$dnsrewrite=80.90.186.12
+||dreamina.capcut.com^$dnsrewrite=80.90.186.12
 ||dub.sh^$dnsrewrite=80.90.186.12
 ||ducati.com^$dnsrewrite=80.90.186.12
 ||dumka.media^$dnsrewrite=80.90.186.12
@@ -296,6 +300,7 @@
 ||filmix.ac^$dnsrewrite=80.90.186.12
 ||filmix.biz^$dnsrewrite=80.90.186.12
 ||filmix.day^$dnsrewrite=80.90.186.12
+||filmix.fan^$dnsrewrite=80.90.186.12
 ||filmix.fm^$dnsrewrite=80.90.186.12
 ||filmix.la^$dnsrewrite=80.90.186.12
 ||flibusta.is^$dnsrewrite=80.90.186.12
@@ -475,6 +480,7 @@
 ||kinozal.me^$dnsrewrite=80.90.186.12
 ||kinozal.tv^$dnsrewrite=80.90.186.12
 ||kinozaltv.life^$dnsrewrite=80.90.186.12
+||klarna.com^$dnsrewrite=80.90.186.12
 ||kmail-lists.com^$dnsrewrite=80.90.186.12
 ||knews.kg^$dnsrewrite=80.90.186.12
 ||knowyourmeme.com^$dnsrewrite=80.90.186.12
@@ -552,6 +558,7 @@
 ||metopera.org^$dnsrewrite=80.90.186.12
 ||middlewareinventory.com^$dnsrewrite=80.90.186.12
 ||mignews.com^$dnsrewrite=80.90.186.12
+||mintmobile.com^$dnsrewrite=80.90.186.12
 ||miracleptr.wordpress.com^$dnsrewrite=80.90.186.12
 ||mixcloud.com^$dnsrewrite=80.90.186.12
 ||modrinth.com^$dnsrewrite=80.90.186.12
@@ -673,6 +680,7 @@
 ||parallelsaccess.com^$dnsrewrite=80.90.186.12
 ||paritydeals.com^$dnsrewrite=80.90.186.12
 ||patreon.com^$dnsrewrite=80.90.186.12
+||patreonusercontent.com^$dnsrewrite=80.90.186.12
 ||patriot.dp.ua^$dnsrewrite=80.90.186.12
 ||pb.wtf^$dnsrewrite=80.90.186.12
 ||pcgamesn.com^$dnsrewrite=80.90.186.12
@@ -686,6 +694,7 @@
 ||pimpletv.ru^$dnsrewrite=80.90.186.12
 ||pingdom.com^$dnsrewrite=80.90.186.12
 ||piratbit.top^$dnsrewrite=80.90.186.12
+||pixabay.com^$dnsrewrite=80.90.186.12
 ||pkgs.tailscale.com^$dnsrewrite=80.90.186.12
 ||platform.activestate.com^$dnsrewrite=80.90.186.12
 ||playboy.com^$dnsrewrite=80.90.186.12
@@ -721,6 +730,7 @@
 ||pscp.tv^$dnsrewrite=80.90.186.12
 ||psiphon.ca^$dnsrewrite=80.90.186.12
 ||public.parsec.app^$dnsrewrite=80.90.186.12
+||pvpessence.com^$dnsrewrite=80.90.186.12
 ||qt.io^$dnsrewrite=80.90.186.12
 ||qualcomm.com^$dnsrewrite=80.90.186.12
 ||quicknode.com^$dnsrewrite=80.90.186.12
@@ -861,6 +871,7 @@
 ||sobesednik.com^$dnsrewrite=80.90.186.12
 ||solarwinds.com^$dnsrewrite=80.90.186.12
 ||sonara.ai^$dnsrewrite=80.90.186.12
+||sophos.com^$dnsrewrite=80.90.186.12
 ||sora.com^$dnsrewrite=80.90.186.12
 ||sotaproject.com^$dnsrewrite=80.90.186.12
 ||soundcloud.cloud^$dnsrewrite=80.90.186.12
@@ -1031,6 +1042,7 @@
 ||vpnpay.io^$dnsrewrite=80.90.186.12
 ||vyos.io^$dnsrewrite=80.90.186.12
 ||w.atwiki.jp^$dnsrewrite=80.90.186.12
+||wa.me^$dnsrewrite=80.90.186.12
 ||walmart.com^$dnsrewrite=80.90.186.12
 ||watchguard.com^$dnsrewrite=80.90.186.12
 ||watermarkremover.io^$dnsrewrite=80.90.186.12
@@ -1041,6 +1053,9 @@
 ||webtoons.com^$dnsrewrite=80.90.186.12
 ||weebly.com^$dnsrewrite=80.90.186.12
 ||welt.de^$dnsrewrite=80.90.186.12
+||whatsapp.biz^$dnsrewrite=80.90.186.12
+||whatsapp.com^$dnsrewrite=80.90.186.12
+||whatsapp.net^$dnsrewrite=80.90.186.12
 ||wide-youtube.l.google.com^$dnsrewrite=80.90.186.12
 ||widgetapp.stream^$dnsrewrite=80.90.186.12
 ||wiki.fextralife.com^$dnsrewrite=80.90.186.12
