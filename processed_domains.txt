@@ -22,12 +22,14 @@
 ||adobe.com^$dnsrewrite=80.90.186.12
 ||ads-twitter.com^$dnsrewrite=80.90.186.12
 ||adultmult.tv^$dnsrewrite=80.90.186.12
+||affinity.studio^$dnsrewrite=80.90.186.12
 ||agents.media^$dnsrewrite=80.90.186.12
 ||ahrefs.com^$dnsrewrite=80.90.186.12
 ||ai-chat.bsg.brave.com^$dnsrewrite=80.90.186.12
 ||ai.com^$dnsrewrite=80.90.186.12
 ||aircanada.com^$dnsrewrite=80.90.186.12
 ||akc.org^$dnsrewrite=80.90.186.12
+||all3dp.com^$dnsrewrite=80.90.186.12
 ||allegro.pl^$dnsrewrite=80.90.186.12
 ||alphacoders.com^$dnsrewrite=80.90.186.12
 ||alza.hu^$dnsrewrite=80.90.186.12
@@ -279,7 +281,7 @@
 ||eutrp.eu^$dnsrewrite=80.90.186.12
 ||everand.com^$dnsrewrite=80.90.186.12
 ||exchanger.bits.media^$dnsrewrite=80.90.186.12
-||exler.ru^$dnsrewrite=80.90.186.12
+||exler.es^$dnsrewrite=80.90.186.12
 ||expandrive.com^$dnsrewrite=80.90.186.12
 ||expres.online^$dnsrewrite=80.90.186.12
 ||extremetech.com^$dnsrewrite=80.90.186.12
@@ -352,7 +354,6 @@
 ||glavred.info^$dnsrewrite=80.90.186.12
 ||glavred.net^$dnsrewrite=80.90.186.12
 ||global.fncstatic.com^$dnsrewrite=80.90.186.12
-||global.platform.seconddinnertech.com^$dnsrewrite=80.90.186.12
 ||glpals.com^$dnsrewrite=80.90.186.12
 ||godaddy.com^$dnsrewrite=80.90.186.12
 ||gofile.io^$dnsrewrite=80.90.186.12
@@ -524,6 +525,7 @@
 ||lostfilmtv2.site^$dnsrewrite=80.90.186.12
 ||lu4.org^$dnsrewrite=80.90.186.12
 ||lucid.app^$dnsrewrite=80.90.186.12
+||lyst.com^$dnsrewrite=80.90.186.12
 ||magaz.global^$dnsrewrite=80.90.186.12
 ||mail-api.proton.me^$dnsrewrite=80.90.186.12
 ||mailerlite.com^$dnsrewrite=80.90.186.12
@@ -556,6 +558,7 @@
 ||metal-archives.com^$dnsrewrite=80.90.186.12
 ||metla.press^$dnsrewrite=80.90.186.12
 ||metopera.org^$dnsrewrite=80.90.186.12
+||mezha.net^$dnsrewrite=80.90.186.12
 ||middlewareinventory.com^$dnsrewrite=80.90.186.12
 ||mignews.com^$dnsrewrite=80.90.186.12
 ||mintmobile.com^$dnsrewrite=80.90.186.12
@@ -643,6 +646,7 @@
 ||oaiusercontent.com^$dnsrewrite=80.90.186.12
 ||obozrevatel.com^$dnsrewrite=80.90.186.12
 ||ocstore.com^$dnsrewrite=80.90.186.12
+||octopus.do^$dnsrewrite=80.90.186.12
 ||oculus.com^$dnsrewrite=80.90.186.12
 ||ohmyswift.ru^$dnsrewrite=80.90.186.12
 ||oi.legal^$dnsrewrite=80.90.186.12
@@ -713,6 +717,7 @@
 ||pravda.com^$dnsrewrite=80.90.186.12
 ||pravda.com.ua^$dnsrewrite=80.90.186.12
 ||premierleague.com^$dnsrewrite=80.90.186.12
+||primark.com^$dnsrewrite=80.90.186.12
 ||primevideo.com^$dnsrewrite=80.90.186.12
 ||primevue.org^$dnsrewrite=80.90.186.12
 ||privatekeys.pw^$dnsrewrite=80.90.186.12
@@ -721,6 +726,7 @@
 ||production-openaicom-storage.azureedge.net^$dnsrewrite=80.90.186.12
 ||proekt.media^$dnsrewrite=80.90.186.12
 ||profitwell.com^$dnsrewrite=80.90.186.12
+||pronouns.page^$dnsrewrite=80.90.186.12
 ||prosleduetmedia.com^$dnsrewrite=80.90.186.12
 ||prostovpn.org^$dnsrewrite=80.90.186.12
 ||proton.me^$dnsrewrite=80.90.186.12
@@ -828,6 +834,7 @@
 ||sdxcentral.com^$dnsrewrite=80.90.186.12
 ||searchfloor.org^$dnsrewrite=80.90.186.12
 ||seasonvar.ru^$dnsrewrite=80.90.186.12
+||seconddinnertech.com^$dnsrewrite=80.90.186.12
 ||selezen.org^$dnsrewrite=80.90.186.12
 ||semnasem.org^$dnsrewrite=80.90.186.12
 ||semrush.com^$dnsrewrite=80.90.186.12
@@ -864,6 +871,7 @@
 ||smartbear.com^$dnsrewrite=80.90.186.12
 ||smartdeploy.com^$dnsrewrite=80.90.186.12
 ||sms-activate.io^$dnsrewrite=80.90.186.12
+||snapgametech.com^$dnsrewrite=80.90.186.12
 ||snapgene.com^$dnsrewrite=80.90.186.12
 ||sndcdn.com^$dnsrewrite=80.90.186.12
 ||snort.org^$dnsrewrite=80.90.186.12
@@ -935,6 +943,7 @@
 ||thebell.io^$dnsrewrite=80.90.186.12
 ||theins.press^$dnsrewrite=80.90.186.12
 ||theins.ru^$dnsrewrite=80.90.186.12
+||themoscowtimes.com^$dnsrewrite=80.90.186.12
 ||themoviedb.org^$dnsrewrite=80.90.186.12
 ||thepiratebay.org^$dnsrewrite=80.90.186.12
 ||theporndude.com^$dnsrewrite=80.90.186.12
@@ -1008,6 +1017,8 @@
 ||ukdevilz.com^$dnsrewrite=80.90.186.12
 ||ukr.net^$dnsrewrite=80.90.186.12
 ||ukr.radio^$dnsrewrite=80.90.186.12
+||ukrainer.net^$dnsrewrite=80.90.186.12
+||ukrinform.net^$dnsrewrite=80.90.186.12
 ||ukrtelcdn.net^$dnsrewrite=80.90.186.12
 ||unian.ua^$dnsrewrite=80.90.186.12
 ||unscreen.com^$dnsrewrite=80.90.186.12
@@ -1068,6 +1079,7 @@
 ||wpengine.com^$dnsrewrite=80.90.186.12
 ||wunderground.com^$dnsrewrite=80.90.186.12
 ||www3.corsair.com^$dnsrewrite=80.90.186.12
+||x-minus.pro^$dnsrewrite=80.90.186.12
 ||x.ai^$dnsrewrite=80.90.186.12
 ||x.com^$dnsrewrite=80.90.186.12
 ||xhamster.com^$dnsrewrite=80.90.186.12
