@@ -16,6 +16,7 @@
 ||abook-club.ru^$dnsrewrite=80.90.186.12
 ||academy.terrasoft.ua^$dnsrewrite=80.90.186.12
 ||activatica.org^$dnsrewrite=80.90.186.12
+||adguard-vpn.com^$dnsrewrite=80.90.186.12
 ||adguard.com^$dnsrewrite=80.90.186.12
 ||adidas.com^$dnsrewrite=80.90.186.12
 ||adminforge.de^$dnsrewrite=80.90.186.12
@@ -68,7 +69,6 @@
 ||api.theins.info^$dnsrewrite=80.90.186.12
 ||api.themoviedb.org^$dnsrewrite=80.90.186.12
 ||apkmirror.com^$dnsrewrite=80.90.186.12
-||app.zerossl.com^$dnsrewrite=80.90.186.12
 ||arbat.media^$dnsrewrite=80.90.186.12
 ||arc.net^$dnsrewrite=80.90.186.12
 ||archive.ph^$dnsrewrite=80.90.186.12
@@ -193,6 +193,9 @@
 ||csskor.ill.in.ua^$dnsrewrite=80.90.186.12
 ||cub.red^$dnsrewrite=80.90.186.12
 ||currenttime.tv^$dnsrewrite=80.90.186.12
+||cursor-cdn.com^$dnsrewrite=80.90.186.12
+||cursor.sh^$dnsrewrite=80.90.186.12
+||cursorapi.com^$dnsrewrite=80.90.186.12
 ||cursorinfo.co.il^$dnsrewrite=80.90.186.12
 ||cvedetails.com^$dnsrewrite=80.90.186.12
 ||cyberghostvpn.com^$dnsrewrite=80.90.186.12
@@ -286,6 +289,7 @@
 ||etahub.com^$dnsrewrite=80.90.186.12
 ||etsy.com^$dnsrewrite=80.90.186.12
 ||euronews.com^$dnsrewrite=80.90.186.12
+||europesays.com^$dnsrewrite=80.90.186.12
 ||euroradio.fm^$dnsrewrite=80.90.186.12
 ||eutrp.eu^$dnsrewrite=80.90.186.12
 ||everand.com^$dnsrewrite=80.90.186.12
@@ -338,7 +342,12 @@
 ||forum.netgate.com^$dnsrewrite=80.90.186.12
 ||forum.ru-board.com^$dnsrewrite=80.90.186.12
 ||foxnews.com^$dnsrewrite=80.90.186.12
+||framer.app^$dnsrewrite=80.90.186.12
 ||framer.com^$dnsrewrite=80.90.186.12
+||framercanvas.com^$dnsrewrite=80.90.186.12
+||framercdn.com^$dnsrewrite=80.90.186.12
+||framerstatic.com^$dnsrewrite=80.90.186.12
+||framerusercontent.com^$dnsrewrite=80.90.186.12
 ||freedomletters.org^$dnsrewrite=80.90.186.12
 ||freeimages.com^$dnsrewrite=80.90.186.12
 ||freemedia.io^$dnsrewrite=80.90.186.12
@@ -445,6 +454,7 @@
 ||image.tmdb.org^$dnsrewrite=80.90.186.12
 ||imgur.com^$dnsrewrite=80.90.186.12
 ||important-stories.com^$dnsrewrite=80.90.186.12
+||incy.cc^$dnsrewrite=80.90.186.12
 ||indeed.com^$dnsrewrite=80.90.186.12
 ||indiehackers.com^$dnsrewrite=80.90.186.12
 ||infineon.com^$dnsrewrite=80.90.186.12
@@ -471,13 +481,12 @@
 ||jamf.com^$dnsrewrite=80.90.186.12
 ||jetbrains.com^$dnsrewrite=80.90.186.12
 ||jetbrains.space^$dnsrewrite=80.90.186.12
+||jetbrains.team^$dnsrewrite=80.90.186.12
 ||jnn-pa.googleapis.com^$dnsrewrite=80.90.186.12
 ||joesandbox.com^$dnsrewrite=80.90.186.12
 ||jskor.ill.in.ua^$dnsrewrite=80.90.186.12
 ||jut-su.net^$dnsrewrite=80.90.186.12
 ||jut.su^$dnsrewrite=80.90.186.12
-||jw-russia.org^$dnsrewrite=80.90.186.12
-||jw.org^$dnsrewrite=80.90.186.12
 ||kaktus.media^$dnsrewrite=80.90.186.12
 ||kaleido.ai^$dnsrewrite=80.90.186.12
 ||kamatera.com^$dnsrewrite=80.90.186.12
@@ -553,6 +562,7 @@
 ||mailo.com^$dnsrewrite=80.90.186.12
 ||make.com^$dnsrewrite=80.90.186.12
 ||malwarebytes.com^$dnsrewrite=80.90.186.12
+||manga-chan.me^$dnsrewrite=80.90.186.12
 ||mangadex.org^$dnsrewrite=80.90.186.12
 ||mangahub.ru^$dnsrewrite=80.90.186.12
 ||mangapark.net^$dnsrewrite=80.90.186.12
@@ -584,6 +594,7 @@
 ||mintmobile.com^$dnsrewrite=80.90.186.12
 ||miracleptr.wordpress.com^$dnsrewrite=80.90.186.12
 ||mixcloud.com^$dnsrewrite=80.90.186.12
+||mmcdn.com^$dnsrewrite=80.90.186.12
 ||modrinth.com^$dnsrewrite=80.90.186.12
 ||mongodb.com^$dnsrewrite=80.90.186.12
 ||monolisa.dev^$dnsrewrite=80.90.186.12
@@ -709,6 +720,7 @@
 ||patreon.com^$dnsrewrite=80.90.186.12
 ||patreonusercontent.com^$dnsrewrite=80.90.186.12
 ||patriot.dp.ua^$dnsrewrite=80.90.186.12
+||paywithmoon.com^$dnsrewrite=80.90.186.12
 ||pb.wtf^$dnsrewrite=80.90.186.12
 ||pcgamesn.com^$dnsrewrite=80.90.186.12
 ||pcmag.com^$dnsrewrite=80.90.186.12
@@ -762,6 +774,7 @@
 ||psiphon.ca^$dnsrewrite=80.90.186.12
 ||public.parsec.app^$dnsrewrite=80.90.186.12
 ||pvpessence.com^$dnsrewrite=80.90.186.12
+||qobuz.com^$dnsrewrite=80.90.186.12
 ||qodana.cloud^$dnsrewrite=80.90.186.12
 ||qoder.com^$dnsrewrite=80.90.186.12
 ||qt.io^$dnsrewrite=80.90.186.12
@@ -876,6 +889,8 @@
 ||servarr.com^$dnsrewrite=80.90.186.12
 ||severreal.org^$dnsrewrite=80.90.186.12
 ||sfdcopens.com^$dnsrewrite=80.90.186.12
+||sharefile.com^$dnsrewrite=80.90.186.12
+||sharefile.io^$dnsrewrite=80.90.186.12
 ||shikimori.me^$dnsrewrite=80.90.186.12
 ||shikimori.one^$dnsrewrite=80.90.186.12
 ||shinyhardware.co.uk^$dnsrewrite=80.90.186.12
@@ -884,6 +899,7 @@
 ||showip.net^$dnsrewrite=80.90.186.12
 ||sibreal.org^$dnsrewrite=80.90.186.12
 ||signal.org^$dnsrewrite=80.90.186.12
+||sigsauer.com^$dnsrewrite=80.90.186.12
 ||simplex.chat^$dnsrewrite=80.90.186.12
 ||simplex.im^$dnsrewrite=80.90.186.12
 ||simplix.info^$dnsrewrite=80.90.186.12
@@ -955,6 +971,7 @@
 ||swapd.co^$dnsrewrite=80.90.186.12
 ||swissinfo.ch^$dnsrewrite=80.90.186.12
 ||synoforum.com^$dnsrewrite=80.90.186.12
+||syslog-ng.com^$dnsrewrite=80.90.186.12
 ||t-invariant.org^$dnsrewrite=80.90.186.12
 ||t.co^$dnsrewrite=80.90.186.12
 ||tableau.com^$dnsrewrite=80.90.186.12
@@ -983,6 +1000,7 @@
 ||theporndude.com^$dnsrewrite=80.90.186.12
 ||thetruestory.news^$dnsrewrite=80.90.186.12
 ||thetvdb.com^$dnsrewrite=80.90.186.12
+||threads.com^$dnsrewrite=80.90.186.12
 ||threads.net^$dnsrewrite=80.90.186.12
 ||threema.ch^$dnsrewrite=80.90.186.12
 ||ti.com^$dnsrewrite=80.90.186.12
@@ -1094,6 +1112,7 @@
 ||watermarkremover.io^$dnsrewrite=80.90.186.12
 ||wbagora.com^$dnsrewrite=80.90.186.12
 ||wbgames.com^$dnsrewrite=80.90.186.12
+||wdfiles.com^$dnsrewrite=80.90.186.12
 ||weather.com^$dnsrewrite=80.90.186.12
 ||webmd.com^$dnsrewrite=80.90.186.12
 ||webnames.ca^$dnsrewrite=80.90.186.12
@@ -1160,4 +1179,5 @@
 ||zedge.net^$dnsrewrite=80.90.186.12
 ||zendesk.com^$dnsrewrite=80.90.186.12
 ||zerkalo.io^$dnsrewrite=80.90.186.12
+||zerossl.com^$dnsrewrite=80.90.186.12
 ||zona.media^$dnsrewrite=80.90.186.12
